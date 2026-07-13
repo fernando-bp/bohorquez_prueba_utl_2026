@@ -27,14 +27,16 @@ OUT_PATH = os.path.join(BASE_DIR, "evaluation_manifest.json")
 # EDITAR ANTES DE ENTREGAR
 # ---------------------------------------------------------------------
 META = {
-    "nombre": "APELLIDO NOMBRE",
-    "email": "correo@ejemplo.com",
-    "url_repo": "https://github.com/TU_USUARIO/apellido_prueba_utl_2026",
+    "nombre": "FERNANDO BOHORQUEZ PARRA",
+    "email": "fernando.bohorquez@uptc.edu.co",
+    "url_repo": "https://github.com/fernando-bp/bohorquez_prueba_utl_2026",
 }
 # ---------------------------------------------------------------------
 
 MUNICIPIOS_ESPERADOS = {"TUNJA", "PAIPA", "SOGAMOSO", "DUITAMA"}
 CORPORACIONES = {"CA", "SE"}
+MESAS_ESPERADAS = {"TUNJA": 424, "PAIPA": 95, "SOGAMOSO": 301, "DUITAMA": 287}
+PUESTOS_ESPERADOS = {"TUNJA": 26, "PAIPA": 7, "SOGAMOSO": 18, "DUITAMA": 22}
 
 
 def validar_municipios(conn):
@@ -56,7 +58,7 @@ def validar_conteos(conn):
 
 
 def validar_lideres_senado(conn):
-    """Verifica que cada municipio tenga un partido lÃ­der calculado desde SE."""
+    """Verifica que cada municipio tenga un partido líder calculado desde SE."""
     filas = conn.execute(
         """WITH votos_partido AS (
                SELECT m.nombre AS municipio, c.codpar, SUM(v.votos) AS votos,
@@ -75,12 +77,12 @@ def validar_lideres_senado(conn):
     ).fetchall()
     lideres = [{"municipio": m, "codpar": p, "votos": v} for m, p, v in filas]
     ok = {fila["municipio"] for fila in lideres} == MUNICIPIOS_ESPERADOS
-    print(f"Reto 2: {len(lideres)}/4 partidos lÃ­deres SE verificados")
+    print(f"Reto 2: {len(lideres)}/4 partidos líderes SE verificados")
     return {"lideres_se": lideres, "ok": ok}
 
 
 def validar_extraccion(conn):
-    """Comprueba las 8 respuestas agregadas y sus conteos reales de mesas."""
+    """Comprueba respuestas, mesas oficiales y ámbitos de puesto extraídos."""
     filas = conn.execute(
         """SELECT municipio, corporacion, payload_json
            FROM raw_resultados WHERE nivel = 'municipio'"""
@@ -93,10 +95,45 @@ def validar_extraccion(conn):
         mesas[f"{municipio}_{corporacion}"] = int(
             data.get("totales", {}).get("act", {}).get("mesesc", 0)
         )
-    ok = encontradas == esperadas and all(valor > 0 for valor in mesas.values())
+    mesas_por_municipio = {
+        municipio: conn.execute(
+            """SELECT COALESCE(SUM(mesas), 0) FROM puestos p
+               JOIN municipios m ON m.codmpio = p.codmpio WHERE m.nombre = ?""",
+            (municipio,),
+        ).fetchone()[0]
+        for municipio in MUNICIPIOS_ESPERADOS
+    }
+    puestos_por_municipio = {
+        municipio: conn.execute(
+            """SELECT COUNT(*) FROM puestos p JOIN municipios m ON m.codmpio = p.codmpio
+               WHERE m.nombre = ?""",
+            (municipio,),
+        ).fetchone()[0]
+        for municipio in MUNICIPIOS_ESPERADOS
+    }
+    bloques_puesto = conn.execute(
+        "SELECT COUNT(*) FROM raw_resultados WHERE nivel = 'puesto'"
+    ).fetchone()[0]
+    mesas_coinciden = all(
+        mesas.get(f"{municipio}_CA") == esperadas_mesas
+        and mesas.get(f"{municipio}_SE") == esperadas_mesas
+        and mesas_por_municipio[municipio] == esperadas_mesas
+        for municipio, esperadas_mesas in MESAS_ESPERADAS.items()
+    )
+    puestos_coinciden = puestos_por_municipio == PUESTOS_ESPERADOS
+    ok = (encontradas == esperadas and mesas_coinciden and puestos_coinciden
+          and bloques_puesto > 0)
     print(f"Reto 1: {len(encontradas)}/8 respuestas municipales; "
-          f"{sum(mesas.values())} mesas reportadas")
-    return {"respuestas_municipales": len(encontradas), "mesas": mesas, "ok": ok}
+          f"{sum(mesas_por_municipio.values())} mesas únicas; "
+          f"{bloques_puesto} bloques por puesto")
+    return {
+        "respuestas_municipales": len(encontradas),
+        "mesas_api": mesas,
+        "mesas_por_municipio": mesas_por_municipio,
+        "puestos_por_municipio": puestos_por_municipio,
+        "bloques_puesto": bloques_puesto,
+        "ok": ok,
+    }
 
 
 def ejecutar_sql(conn):

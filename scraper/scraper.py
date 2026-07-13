@@ -62,11 +62,26 @@ def ensure_schema(conn):
             "ALTER TABLE raw_resultados ADD COLUMN nivel TEXT NOT NULL DEFAULT 'puesto' "
             "CHECK (nivel IN ('municipio', 'puesto'))"
         )
+    if "raw_key" not in columnas:
+        conn.execute("ALTER TABLE raw_resultados ADD COLUMN raw_key TEXT")
+    for row_id, municipio, codpuesto, corporacion, nivel, payload in conn.execute(
+        "SELECT id, municipio, codpuesto, corporacion, nivel, payload_json FROM raw_resultados "
+        "WHERE raw_key IS NULL"
+    ):
+        bloque = json.loads(payload)
+        clave = raw_key(municipio, codpuesto, corporacion, nivel, bloque.get("codpar"))
+        conn.execute("UPDATE raw_resultados SET raw_key = ? WHERE id = ?", (clave, row_id))
     conn.execute(
-        "CREATE UNIQUE INDEX IF NOT EXISTS uq_raw_resultados_nivel "
-        "ON raw_resultados (municipio, codpuesto, corporacion, nivel, payload_json)"
+        "CREATE UNIQUE INDEX IF NOT EXISTS uq_raw_resultados_identidad "
+        "ON raw_resultados (raw_key)"
     )
     conn.commit()
+
+
+def raw_key(municipio, codpuesto, corporacion, nivel, codpar=None):
+    """Clave estable: un agregado municipal o un bloque de partido por puesto."""
+    sufijo = "MUNICIPIO" if nivel == "municipio" else f"PARTIDO:{codpar}"
+    return f"{municipio}|{codpuesto}|{corporacion}|{nivel}|{sufijo}"
 
 
 def fetch_json(url):
@@ -77,7 +92,7 @@ def fetch_json(url):
             with urllib.request.urlopen(req, timeout=30) as response:
                 if response.status == 200:
                     data = json.loads(response.read().decode("utf-8"))
-                    # Evita rÃ¡fagas contra un sitio pÃºblico.
+                    # Evita ráfagas contra un sitio público.
                     time.sleep(random.uniform(REQUEST_PAUSE_MIN, REQUEST_PAUSE_MAX))
                     return data
                 log(f"HTTP {response.status} en intento {intento}/{MAX_RETRIES}: {url}")
@@ -94,15 +109,25 @@ def insertar_resultado_municipal(conn, municipio, corporacion):
     url = ACT_URL.format(corporacion=corporacion, codpuesto=codigo)
     response = fetch_json(url)
     payload = json.dumps(response, ensure_ascii=False, sort_keys=True)
-    cur = conn.execute(
-        """INSERT OR IGNORE INTO raw_resultados
-           (municipio, codmpio, codpuesto, corporacion, nivel, payload_json)
-           VALUES (?, ?, ?, ?, 'municipio', ?)""",
-        (municipio, MUNICIPIOS[municipio]["codmpio"], codigo, corporacion, payload),
+    clave = raw_key(municipio, codigo, corporacion, "municipio")
+    existente = conn.execute(
+        """SELECT 1 FROM raw_resultados
+           WHERE raw_key = ?""",
+        (clave,),
+    ).fetchone()
+    conn.execute(
+        """INSERT INTO raw_resultados
+           (municipio, codmpio, codpuesto, corporacion, nivel, raw_key, payload_json)
+           VALUES (?, ?, ?, ?, 'municipio', ?, ?)
+           ON CONFLICT(raw_key) DO UPDATE SET
+               codmpio = excluded.codmpio,
+               payload_json = excluded.payload_json,
+               fetched_at = datetime('now')""",
+        (municipio, MUNICIPIOS[municipio]["codmpio"], codigo, corporacion, clave, payload),
     )
-    estado = "insertado" if cur.rowcount else "omitido"
+    estado = "actualizado" if existente else "insertado"
     log(f"{municipio} {corporacion} municipio ({codigo}): {estado}")
-    return bool(cur.rowcount)
+    return existente is None
 
 
 def obtener_puestos_por_municipio():
@@ -190,16 +215,26 @@ def insertar_raw(conn, municipio, puestos):
             for bloque in bloques:
                 bloques_leidos += 1
                 payload = json.dumps(bloque, ensure_ascii=False, sort_keys=True)
+                clave = raw_key(municipio, puesto["c"], corporacion, "puesto", bloque["codpar"])
+                existente = cur.execute(
+                    """SELECT 1 FROM raw_resultados
+                       WHERE raw_key = ?""",
+                    (clave,),
+                ).fetchone()
                 cur.execute(
-                    """INSERT OR IGNORE INTO raw_resultados
-                       (municipio, codmpio, codpuesto, corporacion, nivel, payload_json)
-                       VALUES (?, ?, ?, ?, 'puesto', ?)""",
-                    (municipio, MUNICIPIOS[municipio]["codmpio"], puesto["c"], corporacion, payload),
+                """INSERT INTO raw_resultados
+                   (municipio, codmpio, codpuesto, corporacion, nivel, raw_key, payload_json)
+                   VALUES (?, ?, ?, ?, 'puesto', ?, ?)
+                   ON CONFLICT(raw_key) DO UPDATE SET
+                       codmpio = excluded.codmpio,
+                       payload_json = excluded.payload_json,
+                       fetched_at = datetime('now')""",
+                    (municipio, MUNICIPIOS[municipio]["codmpio"], puesto["c"], corporacion, clave, payload),
                 )
-                if cur.rowcount:
-                    insertadas += 1
-                else:
+                if existente:
                     omitidas += 1
+                else:
+                    insertadas += 1
     conn.commit()
     return insertadas, omitidas, bloques_leidos
 

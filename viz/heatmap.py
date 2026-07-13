@@ -23,15 +23,16 @@ OUT_PATH = os.path.join(BASE_DIR, "heatmap_municipios.png")
 def main():
     conn = sqlite3.connect(DB_PATH)
 
-    top8 = [r[0] for r in conn.execute("""
-        SELECT c.nombre_normalizado
+    top8 = conn.execute("""
+        SELECT c.candidato_id, c.nombre_normalizado
         FROM votos v
         JOIN candidatos c ON c.candidato_id = v.candidato_id
         WHERE c.corporacion = 'CA'
+          AND c.nombre_normalizado <> 'SOLO POR LA LISTA'
         GROUP BY c.candidato_id
         ORDER BY SUM(v.votos) DESC
         LIMIT 8
-    """)]
+    """).fetchall()
 
     municipios = [r[0] for r in conn.execute("SELECT nombre FROM municipios ORDER BY nombre")]
 
@@ -46,7 +47,7 @@ def main():
     """))
 
     matriz = np.zeros((len(top8), len(municipios)))
-    for i, cand in enumerate(top8):
+    for i, (candidato_id, nombre_candidato) in enumerate(top8):
         for j, muni in enumerate(municipios):
             row = conn.execute("""
                 SELECT SUM(v.votos)
@@ -54,8 +55,8 @@ def main():
                 JOIN candidatos c ON c.candidato_id = v.candidato_id
                 JOIN puestos p ON p.codpuesto = v.codpuesto
                 JOIN municipios m ON m.codmpio = p.codmpio
-                WHERE c.corporacion = 'CA' AND c.nombre_normalizado = ? AND m.nombre = ?
-            """, (cand, muni)).fetchone()
+                WHERE c.corporacion = 'CA' AND c.candidato_id = ? AND m.nombre = ?
+            """, (candidato_id, muni)).fetchone()
             votos_cand = row[0] or 0
             matriz[i, j] = 100.0 * votos_cand / total_ca_municipio[muni]
 
@@ -65,7 +66,7 @@ def main():
     ax.set_xticks(range(len(municipios)))
     ax.set_xticklabels(municipios)
     ax.set_yticks(range(len(top8)))
-    ax.set_yticklabels(top8, fontsize=8)
+    ax.set_yticklabels([nombre for _, nombre in top8], fontsize=8)
 
     for i in range(len(top8)):
         for j in range(len(municipios)):

@@ -36,16 +36,16 @@ PARTIDOS_CA = {
     2:  (2,  "PARTIDO CONSERVADOR", "#E07B00"),
     1:  (1,  "PARTIDO LIBERAL", "#D8232A"),
     4:  (4,  "CAMBIO RADICAL", "#8C8C8C"),
-    # Coaliciones/listas de CÃ¡mara BoyacÃ¡ 2026, verificadas contra el
-    # catÃ¡logo/inscripciÃ³n oficial de RegistradurÃ­a.
+    # Coaliciones/listas de Cámara Boyacá 2026, verificadas contra el
+    # catálogo/inscripción oficial de Registraduría.
     15:  (17, "DIGNIDAD Y COMPROMISO", "#6B4C9A"),
     120: (9,  "PARTIDO DE LA U - PARTIDO MIRA", "#00A3A3"),
     121: (2,  "PARTIDO CONSERVADOR - MOVIMIENTO SALVACION NACIONAL", "#E07B00"),
     122: (3,  "CR - NUEVO LIBERALISMO", "#E3051C"),
     137: (170, "ALMA - OXIGENO", "#00AEEF"),
 }
-# CÃ³digos de Senado confirmados. No se infieren desde coaliciones de CÃ¡mara:
-# una coaliciÃ³n puede reutilizar el cÃ³digo de uno de sus integrantes.
+# Códigos de Senado confirmados. No se infieren desde coaliciones de Cámara:
+# una coalición puede reutilizar el código de uno de sus integrantes.
 PARTIDOS_SE = {
     57: (5, "ALIANZA VERDE", "#007C34"),
     92: (87, "PACTO HISTORICO", "#7B2D8B"),
@@ -150,7 +150,7 @@ def run_etl():
                     ),
                 )
                 puestos_vistos.add(codpuesto)
-            # Si el puesto ya existÃ­a por una corrida anterior, completa los
+            # Si el puesto ya existía por una corrida anterior, completa los
             # metadatos reales que vienen del scraper oficial.
             conn.execute(
                 """UPDATE puestos
@@ -171,12 +171,17 @@ def run_etl():
                 candidato_id, es_nuevo_candidato = get_or_create_candidato(
                     conn, nombre_norm, codpar, corporacion
                 )
-                cur = conn.execute(
-                    """INSERT OR IGNORE INTO votos (codpuesto, candidato_id, votos)
-                       VALUES (?, ?, ?)""",
+                existente = conn.execute(
+                    "SELECT votos FROM votos WHERE codpuesto = ? AND candidato_id = ?",
+                    (codpuesto, candidato_id),
+                ).fetchone()
+                conn.execute(
+                    """INSERT INTO votos (codpuesto, candidato_id, votos)
+                       VALUES (?, ?, ?)
+                       ON CONFLICT(codpuesto, candidato_id) DO UPDATE SET votos = excluded.votos""",
                     (codpuesto, candidato_id, cand["votos"]),
                 )
-                if cur.rowcount:
+                if existente is None:
                     filas_insertadas += 1
                 else:
                     filas_omitidas += 1

@@ -1,12 +1,12 @@
 {
   "meta": {
-    "nombre": "APELLIDO NOMBRE",
-    "email": "correo@ejemplo.com",
-    "url_repo": "https://github.com/TU_USUARIO/apellido_prueba_utl_2026"
+    "nombre": "FERNANDO BOHORQUEZ PARRA",
+    "email": "fernando.bohorquez@uptc.edu.co",
+    "url_repo": "https://github.com/fernando-bp/bohorquez_prueba_utl_2026"
   },
   "reto1_extraccion": {
     "respuestas_municipales": 8,
-    "mesas": {
+    "mesas_api": {
       "DUITAMA_CA": 287,
       "DUITAMA_SE": 287,
       "PAIPA_CA": 95,
@@ -16,6 +16,19 @@
       "TUNJA_CA": 424,
       "TUNJA_SE": 424
     },
+    "mesas_por_municipio": {
+      "DUITAMA": 287,
+      "SOGAMOSO": 301,
+      "PAIPA": 95,
+      "TUNJA": 424
+    },
+    "puestos_por_municipio": {
+      "DUITAMA": 22,
+      "SOGAMOSO": 18,
+      "PAIPA": 7,
+      "TUNJA": 26
+    },
+    "bloques_puesto": 1825,
     "ok": true
   },
   "reto2_base_datos": {

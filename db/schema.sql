@@ -16,6 +16,7 @@ CREATE TABLE IF NOT EXISTS raw_resultados (
     codpuesto       TEXT NOT NULL,
     corporacion     TEXT NOT NULL CHECK (corporacion IN ('CA', 'SE')),
     nivel           TEXT NOT NULL CHECK (nivel IN ('municipio', 'puesto')),
+    raw_key         TEXT NOT NULL UNIQUE,     -- identidad estable del bloque raw
     payload_json    TEXT NOT NULL,           -- JSON municipal o bloque por puesto
     fetched_at      TEXT NOT NULL DEFAULT (datetime('now')),
     UNIQUE (municipio, codpuesto, corporacion, nivel, payload_json)
