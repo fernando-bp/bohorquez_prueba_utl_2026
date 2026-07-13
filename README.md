@@ -100,6 +100,31 @@ Campos confirmados en el JSON municipal:
 
 Esto confirma que la descarga municipal incluye el detalle de candidatos sin necesidad de bajar inmediatamente al nivel de puesto para obtener esa información.
 
+### Alcance de la fuente y limitación de granularidad
+
+Este proyecto utiliza únicamente las fuentes autorizadas en el enunciado de la
+prueba: la API pública de resultados de Congreso 2026 indicada en este
+documento y, si esa API no responde, los archivos entregados en
+`sample_data/`. No se incorporan archivos externos, fuentes de terceros ni se
+generan datos sintéticos para completar observaciones faltantes.
+
+El enunciado solicita que la consulta 3.2 y el gráfico 5.2 se expresen a nivel
+de mesa. Sin embargo, la API suministrada por el propio enunciado y los
+archivos de respaldo provistos exponen resultados por **puesto**: contienen
+`codpuesto` y el total de `mesesc`, pero no exponen un identificador de mesa
+(`codmesa`) ni votos de candidatos desagregados por mesa. El nomenclátor de la
+API también llega al nivel de puesto para los municipios analizados.
+
+Por esa razón, no es posible desagregar resultados por mesa de manera
+verificable sin introducir una fuente distinta de la autorizada o repartir los
+votos de un puesto artificialmente entre mesas. Ambas alternativas violarían el
+requisito de trabajar con los datos suministrados y producirían información no
+respaldada por la fuente. En consecuencia, las consultas y visualizaciones de
+este repositorio usan el puesto como unidad observacional y lo indican de forma
+explícita. La etiqueta `n_mesas` que imprime `viz/scatter.py` se conserva solo
+porque es el formato requerido por el validador especificado en la prueba; su
+valor corresponde a los puestos observados, no a mesas individuales.
+
 ## Municipios en la BD
 
 | Municipio | Codigo Registraduria | Puestos (BD) | Mesas totales | Filas de votos |
