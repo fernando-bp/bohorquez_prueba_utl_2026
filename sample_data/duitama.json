@@ -1,0 +1,3042 @@
+{
+  "municipio": "DUITAMA",
+  "codmpio": "15238",
+  "puestos": [
+    {
+      "codpuesto": "15238001",
+      "nombre_puesto": "PUESTO 1 - DUITAMA",
+      "mesas": 7,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "LUIS MARTINEZ PEREZ",
+              "votos": 94
+            },
+            {
+              "nombre": "DAVID RODRIGUEZ MORENO",
+              "votos": 973
+            },
+            {
+              "nombre": "JORGE CASTRO DIAZ",
+              "votos": 15
+            }
+          ],
+          "votos_partido": 1082
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "CARLOS TORRES RAMIREZ",
+              "votos": 452
+            },
+            {
+              "nombre": "MARIA RAMIREZ MARTINEZ",
+              "votos": 150
+            },
+            {
+              "nombre": "VALENTINA RAMIREZ DIAZ",
+              "votos": 8
+            },
+            {
+              "nombre": "MARIA TORRES RAMIREZ",
+              "votos": 28
+            },
+            {
+              "nombre": "CAMILA CASTRO GOMEZ",
+              "votos": 19
+            }
+          ],
+          "votos_partido": 657
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "ANDRES GOMEZ CASTRO",
+              "votos": 4
+            },
+            {
+              "nombre": "JORGE DIAZ RODRIGUEZ",
+              "votos": 152
+            },
+            {
+              "nombre": "MARIA SANCHEZ PEREZ",
+              "votos": 103
+            },
+            {
+              "nombre": "CARLOS TORRES GOMEZ",
+              "votos": 216
+            },
+            {
+              "nombre": "CARLOS RAMIREZ GOMEZ",
+              "votos": 518
+            }
+          ],
+          "votos_partido": 993
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA MARTINEZ MARTINEZ",
+              "votos": 6
+            },
+            {
+              "nombre": "VALENTINA PEREZ SANCHEZ",
+              "votos": 38
+            },
+            {
+              "nombre": "DAVID SANCHEZ SANCHEZ",
+              "votos": 31
+            },
+            {
+              "nombre": "CARLOS MORENO MORENO",
+              "votos": 65
+            }
+          ],
+          "votos_partido": 140
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "LAURA RODRIGUEZ MARTINEZ",
+              "votos": 151
+            },
+            {
+              "nombre": "SANTIAGO TORRES MARTINEZ",
+              "votos": 80
+            },
+            {
+              "nombre": "PAOLA GOMEZ GOMEZ",
+              "votos": 105
+            }
+          ],
+          "votos_partido": 336
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "DAVID MORENO CASTRO",
+              "votos": 43
+            },
+            {
+              "nombre": "VALENTINA TORRES SANCHEZ",
+              "votos": 142
+            },
+            {
+              "nombre": "PAOLA LOPEZ RAMIREZ",
+              "votos": 20
+            },
+            {
+              "nombre": "LAURA MARTINEZ GARCIA",
+              "votos": 172
+            }
+          ],
+          "votos_partido": 377
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "ANA GOMEZ MORENO",
+              "votos": 6
+            },
+            {
+              "nombre": "VALENTINA DIAZ GOMEZ",
+              "votos": 5
+            },
+            {
+              "nombre": "PAOLA LOPEZ RODRIGUEZ",
+              "votos": 79
+            }
+          ],
+          "votos_partido": 90
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "MARIA RAMIREZ DIAZ",
+              "votos": 926
+            },
+            {
+              "nombre": "MARIA LOPEZ CASTRO",
+              "votos": 212
+            }
+          ],
+          "votos_partido": 1138
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "SANTIAGO RAMIREZ LOPEZ",
+              "votos": 206
+            },
+            {
+              "nombre": "JORGE GOMEZ MARTINEZ",
+              "votos": 210
+            }
+          ],
+          "votos_partido": 416
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA CASTRO DIAZ",
+              "votos": 282
+            },
+            {
+              "nombre": "FELIPE DIAZ DIAZ",
+              "votos": 102
+            },
+            {
+              "nombre": "FELIPE LOPEZ GARCIA",
+              "votos": 203
+            },
+            {
+              "nombre": "LUIS MORENO TORRES",
+              "votos": 48
+            }
+          ],
+          "votos_partido": 635
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA GARCIA GARCIA",
+              "votos": 543
+            },
+            {
+              "nombre": "MARIA TORRES DIAZ",
+              "votos": 122
+            },
+            {
+              "nombre": "DIANA MORENO MORENO",
+              "votos": 167
+            }
+          ],
+          "votos_partido": 832
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "SOFIA GOMEZ PEREZ",
+              "votos": 82
+            },
+            {
+              "nombre": "SANTIAGO TORRES PEREZ",
+              "votos": 243
+            },
+            {
+              "nombre": "VALENTINA SANCHEZ MARTINEZ",
+              "votos": 197
+            },
+            {
+              "nombre": "CAMILA SANCHEZ MARTINEZ",
+              "votos": 219
+            },
+            {
+              "nombre": "SOFIA LOPEZ LOPEZ",
+              "votos": 38
+            }
+          ],
+          "votos_partido": 779
+        }
+      ]
+    },
+    {
+      "codpuesto": "15238002",
+      "nombre_puesto": "PUESTO 2 - DUITAMA",
+      "mesas": 6,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "LUIS MARTINEZ PEREZ",
+              "votos": 59
+            },
+            {
+              "nombre": "DAVID RODRIGUEZ MORENO",
+              "votos": 1
+            },
+            {
+              "nombre": "JORGE CASTRO DIAZ",
+              "votos": 453
+            }
+          ],
+          "votos_partido": 513
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "CARLOS TORRES RAMIREZ",
+              "votos": 14
+            },
+            {
+              "nombre": "MARIA RAMIREZ MARTINEZ",
+              "votos": 44
+            },
+            {
+              "nombre": "VALENTINA RAMIREZ DIAZ",
+              "votos": 575
+            },
+            {
+              "nombre": "MARIA TORRES RAMIREZ",
+              "votos": 220
+            },
+            {
+              "nombre": "CAMILA CASTRO GOMEZ",
+              "votos": 114
+            }
+          ],
+          "votos_partido": 967
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "ANDRES GOMEZ CASTRO",
+              "votos": 12
+            },
+            {
+              "nombre": "JORGE DIAZ RODRIGUEZ",
+              "votos": 16
+            },
+            {
+              "nombre": "MARIA SANCHEZ PEREZ",
+              "votos": 102
+            },
+            {
+              "nombre": "CARLOS TORRES GOMEZ",
+              "votos": 19
+            },
+            {
+              "nombre": "CARLOS RAMIREZ GOMEZ",
+              "votos": 96
+            }
+          ],
+          "votos_partido": 245
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA MARTINEZ MARTINEZ",
+              "votos": 70
+            },
+            {
+              "nombre": "VALENTINA PEREZ SANCHEZ",
+              "votos": 359
+            },
+            {
+              "nombre": "DAVID SANCHEZ SANCHEZ",
+              "votos": 147
+            },
+            {
+              "nombre": "CARLOS MORENO MORENO",
+              "votos": 323
+            }
+          ],
+          "votos_partido": 899
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "LAURA RODRIGUEZ MARTINEZ",
+              "votos": 258
+            },
+            {
+              "nombre": "SANTIAGO TORRES MARTINEZ",
+              "votos": 30
+            },
+            {
+              "nombre": "PAOLA GOMEZ GOMEZ",
+              "votos": 679
+            }
+          ],
+          "votos_partido": 967
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "DAVID MORENO CASTRO",
+              "votos": 4
+            },
+            {
+              "nombre": "VALENTINA TORRES SANCHEZ",
+              "votos": 69
+            },
+            {
+              "nombre": "PAOLA LOPEZ RAMIREZ",
+              "votos": 7
+            },
+            {
+              "nombre": "LAURA MARTINEZ GARCIA",
+              "votos": 184
+            }
+          ],
+          "votos_partido": 264
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "ANA GOMEZ MORENO",
+              "votos": 410
+            },
+            {
+              "nombre": "VALENTINA DIAZ GOMEZ",
+              "votos": 122
+            },
+            {
+              "nombre": "PAOLA LOPEZ RODRIGUEZ",
+              "votos": 315
+            }
+          ],
+          "votos_partido": 847
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "MARIA RAMIREZ DIAZ",
+              "votos": 100
+            },
+            {
+              "nombre": "MARIA LOPEZ CASTRO",
+              "votos": 50
+            }
+          ],
+          "votos_partido": 150
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "SANTIAGO RAMIREZ LOPEZ",
+              "votos": 2
+            },
+            {
+              "nombre": "JORGE GOMEZ MARTINEZ",
+              "votos": 995
+            }
+          ],
+          "votos_partido": 997
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA CASTRO DIAZ",
+              "votos": 55
+            },
+            {
+              "nombre": "FELIPE DIAZ DIAZ",
+              "votos": 515
+            },
+            {
+              "nombre": "FELIPE LOPEZ GARCIA",
+              "votos": 0
+            },
+            {
+              "nombre": "LUIS MORENO TORRES",
+              "votos": 263
+            }
+          ],
+          "votos_partido": 833
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA GARCIA GARCIA",
+              "votos": 1
+            },
+            {
+              "nombre": "MARIA TORRES DIAZ",
+              "votos": 164
+            },
+            {
+              "nombre": "DIANA MORENO MORENO",
+              "votos": 352
+            }
+          ],
+          "votos_partido": 517
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "SOFIA GOMEZ PEREZ",
+              "votos": 319
+            },
+            {
+              "nombre": "SANTIAGO TORRES PEREZ",
+              "votos": 0
+            },
+            {
+              "nombre": "VALENTINA SANCHEZ MARTINEZ",
+              "votos": 208
+            },
+            {
+              "nombre": "CAMILA SANCHEZ MARTINEZ",
+              "votos": 124
+            },
+            {
+              "nombre": "SOFIA LOPEZ LOPEZ",
+              "votos": 0
+            }
+          ],
+          "votos_partido": 651
+        }
+      ]
+    },
+    {
+      "codpuesto": "15238003",
+      "nombre_puesto": "PUESTO 3 - DUITAMA",
+      "mesas": 7,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "LUIS MARTINEZ PEREZ",
+              "votos": 494
+            },
+            {
+              "nombre": "DAVID RODRIGUEZ MORENO",
+              "votos": 0
+            },
+            {
+              "nombre": "JORGE CASTRO DIAZ",
+              "votos": 342
+            }
+          ],
+          "votos_partido": 836
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "CARLOS TORRES RAMIREZ",
+              "votos": 86
+            },
+            {
+              "nombre": "MARIA RAMIREZ MARTINEZ",
+              "votos": 412
+            },
+            {
+              "nombre": "VALENTINA RAMIREZ DIAZ",
+              "votos": 15
+            },
+            {
+              "nombre": "MARIA TORRES RAMIREZ",
+              "votos": 393
+            },
+            {
+              "nombre": "CAMILA CASTRO GOMEZ",
+              "votos": 128
+            }
+          ],
+          "votos_partido": 1034
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "ANDRES GOMEZ CASTRO",
+              "votos": 12
+            },
+            {
+              "nombre": "JORGE DIAZ RODRIGUEZ",
+              "votos": 95
+            },
+            {
+              "nombre": "MARIA SANCHEZ PEREZ",
+              "votos": 227
+            },
+            {
+              "nombre": "CARLOS TORRES GOMEZ",
+              "votos": 24
+            },
+            {
+              "nombre": "CARLOS RAMIREZ GOMEZ",
+              "votos": 54
+            }
+          ],
+          "votos_partido": 412
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA MARTINEZ MARTINEZ",
+              "votos": 331
+            },
+            {
+              "nombre": "VALENTINA PEREZ SANCHEZ",
+              "votos": 75
+            },
+            {
+              "nombre": "DAVID SANCHEZ SANCHEZ",
+              "votos": 21
+            },
+            {
+              "nombre": "CARLOS MORENO MORENO",
+              "votos": 175
+            }
+          ],
+          "votos_partido": 602
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "LAURA RODRIGUEZ MARTINEZ",
+              "votos": 144
+            },
+            {
+              "nombre": "SANTIAGO TORRES MARTINEZ",
+              "votos": 222
+            },
+            {
+              "nombre": "PAOLA GOMEZ GOMEZ",
+              "votos": 132
+            }
+          ],
+          "votos_partido": 498
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "DAVID MORENO CASTRO",
+              "votos": 557
+            },
+            {
+              "nombre": "VALENTINA TORRES SANCHEZ",
+              "votos": 8
+            },
+            {
+              "nombre": "PAOLA LOPEZ RAMIREZ",
+              "votos": 139
+            },
+            {
+              "nombre": "LAURA MARTINEZ GARCIA",
+              "votos": 295
+            }
+          ],
+          "votos_partido": 999
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "ANA GOMEZ MORENO",
+              "votos": 66
+            },
+            {
+              "nombre": "VALENTINA DIAZ GOMEZ",
+              "votos": 81
+            },
+            {
+              "nombre": "PAOLA LOPEZ RODRIGUEZ",
+              "votos": 1
+            }
+          ],
+          "votos_partido": 148
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "MARIA RAMIREZ DIAZ",
+              "votos": 546
+            },
+            {
+              "nombre": "MARIA LOPEZ CASTRO",
+              "votos": 144
+            }
+          ],
+          "votos_partido": 690
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "SANTIAGO RAMIREZ LOPEZ",
+              "votos": 99
+            },
+            {
+              "nombre": "JORGE GOMEZ MARTINEZ",
+              "votos": 105
+            }
+          ],
+          "votos_partido": 204
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA CASTRO DIAZ",
+              "votos": 9
+            },
+            {
+              "nombre": "FELIPE DIAZ DIAZ",
+              "votos": 165
+            },
+            {
+              "nombre": "FELIPE LOPEZ GARCIA",
+              "votos": 173
+            },
+            {
+              "nombre": "LUIS MORENO TORRES",
+              "votos": 49
+            }
+          ],
+          "votos_partido": 396
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA GARCIA GARCIA",
+              "votos": 82
+            },
+            {
+              "nombre": "MARIA TORRES DIAZ",
+              "votos": 45
+            },
+            {
+              "nombre": "DIANA MORENO MORENO",
+              "votos": 7
+            }
+          ],
+          "votos_partido": 134
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "SOFIA GOMEZ PEREZ",
+              "votos": 122
+            },
+            {
+              "nombre": "SANTIAGO TORRES PEREZ",
+              "votos": 0
+            },
+            {
+              "nombre": "VALENTINA SANCHEZ MARTINEZ",
+              "votos": 331
+            },
+            {
+              "nombre": "CAMILA SANCHEZ MARTINEZ",
+              "votos": 38
+            },
+            {
+              "nombre": "SOFIA LOPEZ LOPEZ",
+              "votos": 355
+            }
+          ],
+          "votos_partido": 846
+        }
+      ]
+    },
+    {
+      "codpuesto": "15238004",
+      "nombre_puesto": "PUESTO 4 - DUITAMA",
+      "mesas": 5,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "LUIS MARTINEZ PEREZ",
+              "votos": 249
+            },
+            {
+              "nombre": "DAVID RODRIGUEZ MORENO",
+              "votos": 250
+            },
+            {
+              "nombre": "JORGE CASTRO DIAZ",
+              "votos": 320
+            }
+          ],
+          "votos_partido": 819
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "CARLOS TORRES RAMIREZ",
+              "votos": 5
+            },
+            {
+              "nombre": "MARIA RAMIREZ MARTINEZ",
+              "votos": 11
+            },
+            {
+              "nombre": "VALENTINA RAMIREZ DIAZ",
+              "votos": 142
+            },
+            {
+              "nombre": "MARIA TORRES RAMIREZ",
+              "votos": 31
+            },
+            {
+              "nombre": "CAMILA CASTRO GOMEZ",
+              "votos": 164
+            }
+          ],
+          "votos_partido": 353
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "ANDRES GOMEZ CASTRO",
+              "votos": 31
+            },
+            {
+              "nombre": "JORGE DIAZ RODRIGUEZ",
+              "votos": 118
+            },
+            {
+              "nombre": "MARIA SANCHEZ PEREZ",
+              "votos": 134
+            },
+            {
+              "nombre": "CARLOS TORRES GOMEZ",
+              "votos": 102
+            },
+            {
+              "nombre": "CARLOS RAMIREZ GOMEZ",
+              "votos": 1
+            }
+          ],
+          "votos_partido": 386
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA MARTINEZ MARTINEZ",
+              "votos": 417
+            },
+            {
+              "nombre": "VALENTINA PEREZ SANCHEZ",
+              "votos": 1
+            },
+            {
+              "nombre": "DAVID SANCHEZ SANCHEZ",
+              "votos": 84
+            },
+            {
+              "nombre": "CARLOS MORENO MORENO",
+              "votos": 309
+            }
+          ],
+          "votos_partido": 811
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "LAURA RODRIGUEZ MARTINEZ",
+              "votos": 132
+            },
+            {
+              "nombre": "SANTIAGO TORRES MARTINEZ",
+              "votos": 136
+            },
+            {
+              "nombre": "PAOLA GOMEZ GOMEZ",
+              "votos": 128
+            }
+          ],
+          "votos_partido": 396
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "DAVID MORENO CASTRO",
+              "votos": 67
+            },
+            {
+              "nombre": "VALENTINA TORRES SANCHEZ",
+              "votos": 255
+            },
+            {
+              "nombre": "PAOLA LOPEZ RAMIREZ",
+              "votos": 389
+            },
+            {
+              "nombre": "LAURA MARTINEZ GARCIA",
+              "votos": 128
+            }
+          ],
+          "votos_partido": 839
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "ANA GOMEZ MORENO",
+              "votos": 29
+            },
+            {
+              "nombre": "VALENTINA DIAZ GOMEZ",
+              "votos": 209
+            },
+            {
+              "nombre": "PAOLA LOPEZ RODRIGUEZ",
+              "votos": 44
+            }
+          ],
+          "votos_partido": 282
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "MARIA RAMIREZ DIAZ",
+              "votos": 525
+            },
+            {
+              "nombre": "MARIA LOPEZ CASTRO",
+              "votos": 220
+            }
+          ],
+          "votos_partido": 745
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "SANTIAGO RAMIREZ LOPEZ",
+              "votos": 315
+            },
+            {
+              "nombre": "JORGE GOMEZ MARTINEZ",
+              "votos": 524
+            }
+          ],
+          "votos_partido": 839
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA CASTRO DIAZ",
+              "votos": 5
+            },
+            {
+              "nombre": "FELIPE DIAZ DIAZ",
+              "votos": 66
+            },
+            {
+              "nombre": "FELIPE LOPEZ GARCIA",
+              "votos": 134
+            },
+            {
+              "nombre": "LUIS MORENO TORRES",
+              "votos": 573
+            }
+          ],
+          "votos_partido": 778
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA GARCIA GARCIA",
+              "votos": 171
+            },
+            {
+              "nombre": "MARIA TORRES DIAZ",
+              "votos": 31
+            },
+            {
+              "nombre": "DIANA MORENO MORENO",
+              "votos": 3
+            }
+          ],
+          "votos_partido": 205
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "SOFIA GOMEZ PEREZ",
+              "votos": 29
+            },
+            {
+              "nombre": "SANTIAGO TORRES PEREZ",
+              "votos": 6
+            },
+            {
+              "nombre": "VALENTINA SANCHEZ MARTINEZ",
+              "votos": 18
+            },
+            {
+              "nombre": "CAMILA SANCHEZ MARTINEZ",
+              "votos": 0
+            },
+            {
+              "nombre": "SOFIA LOPEZ LOPEZ",
+              "votos": 0
+            }
+          ],
+          "votos_partido": 53
+        }
+      ]
+    },
+    {
+      "codpuesto": "15238005",
+      "nombre_puesto": "PUESTO 5 - DUITAMA",
+      "mesas": 9,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "LUIS MARTINEZ PEREZ",
+              "votos": 487
+            },
+            {
+              "nombre": "DAVID RODRIGUEZ MORENO",
+              "votos": 412
+            },
+            {
+              "nombre": "JORGE CASTRO DIAZ",
+              "votos": 16
+            }
+          ],
+          "votos_partido": 915
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "CARLOS TORRES RAMIREZ",
+              "votos": 42
+            },
+            {
+              "nombre": "MARIA RAMIREZ MARTINEZ",
+              "votos": 2
+            },
+            {
+              "nombre": "VALENTINA RAMIREZ DIAZ",
+              "votos": 121
+            },
+            {
+              "nombre": "MARIA TORRES RAMIREZ",
+              "votos": 35
+            },
+            {
+              "nombre": "CAMILA CASTRO GOMEZ",
+              "votos": 50
+            }
+          ],
+          "votos_partido": 250
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "ANDRES GOMEZ CASTRO",
+              "votos": 41
+            },
+            {
+              "nombre": "JORGE DIAZ RODRIGUEZ",
+              "votos": 146
+            },
+            {
+              "nombre": "MARIA SANCHEZ PEREZ",
+              "votos": 126
+            },
+            {
+              "nombre": "CARLOS TORRES GOMEZ",
+              "votos": 75
+            },
+            {
+              "nombre": "CARLOS RAMIREZ GOMEZ",
+              "votos": 237
+            }
+          ],
+          "votos_partido": 625
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA MARTINEZ MARTINEZ",
+              "votos": 337
+            },
+            {
+              "nombre": "VALENTINA PEREZ SANCHEZ",
+              "votos": 29
+            },
+            {
+              "nombre": "DAVID SANCHEZ SANCHEZ",
+              "votos": 149
+            },
+            {
+              "nombre": "CARLOS MORENO MORENO",
+              "votos": 19
+            }
+          ],
+          "votos_partido": 534
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "LAURA RODRIGUEZ MARTINEZ",
+              "votos": 382
+            },
+            {
+              "nombre": "SANTIAGO TORRES MARTINEZ",
+              "votos": 113
+            },
+            {
+              "nombre": "PAOLA GOMEZ GOMEZ",
+              "votos": 148
+            }
+          ],
+          "votos_partido": 643
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "DAVID MORENO CASTRO",
+              "votos": 220
+            },
+            {
+              "nombre": "VALENTINA TORRES SANCHEZ",
+              "votos": 290
+            },
+            {
+              "nombre": "PAOLA LOPEZ RAMIREZ",
+              "votos": 7
+            },
+            {
+              "nombre": "LAURA MARTINEZ GARCIA",
+              "votos": 78
+            }
+          ],
+          "votos_partido": 595
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "ANA GOMEZ MORENO",
+              "votos": 246
+            },
+            {
+              "nombre": "VALENTINA DIAZ GOMEZ",
+              "votos": 116
+            },
+            {
+              "nombre": "PAOLA LOPEZ RODRIGUEZ",
+              "votos": 180
+            }
+          ],
+          "votos_partido": 542
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "MARIA RAMIREZ DIAZ",
+              "votos": 102
+            },
+            {
+              "nombre": "MARIA LOPEZ CASTRO",
+              "votos": 829
+            }
+          ],
+          "votos_partido": 931
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "SANTIAGO RAMIREZ LOPEZ",
+              "votos": 182
+            },
+            {
+              "nombre": "JORGE GOMEZ MARTINEZ",
+              "votos": 636
+            }
+          ],
+          "votos_partido": 818
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA CASTRO DIAZ",
+              "votos": 648
+            },
+            {
+              "nombre": "FELIPE DIAZ DIAZ",
+              "votos": 169
+            },
+            {
+              "nombre": "FELIPE LOPEZ GARCIA",
+              "votos": 161
+            },
+            {
+              "nombre": "LUIS MORENO TORRES",
+              "votos": 591
+            }
+          ],
+          "votos_partido": 1569
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA GARCIA GARCIA",
+              "votos": 1141
+            },
+            {
+              "nombre": "MARIA TORRES DIAZ",
+              "votos": 22
+            },
+            {
+              "nombre": "DIANA MORENO MORENO",
+              "votos": 123
+            }
+          ],
+          "votos_partido": 1286
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "SOFIA GOMEZ PEREZ",
+              "votos": 26
+            },
+            {
+              "nombre": "SANTIAGO TORRES PEREZ",
+              "votos": 64
+            },
+            {
+              "nombre": "VALENTINA SANCHEZ MARTINEZ",
+              "votos": 608
+            },
+            {
+              "nombre": "CAMILA SANCHEZ MARTINEZ",
+              "votos": 613
+            },
+            {
+              "nombre": "SOFIA LOPEZ LOPEZ",
+              "votos": 55
+            }
+          ],
+          "votos_partido": 1366
+        }
+      ]
+    },
+    {
+      "codpuesto": "15238006",
+      "nombre_puesto": "PUESTO 6 - DUITAMA",
+      "mesas": 10,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "LUIS MARTINEZ PEREZ",
+              "votos": 981
+            },
+            {
+              "nombre": "DAVID RODRIGUEZ MORENO",
+              "votos": 170
+            },
+            {
+              "nombre": "JORGE CASTRO DIAZ",
+              "votos": 126
+            }
+          ],
+          "votos_partido": 1277
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "CARLOS TORRES RAMIREZ",
+              "votos": 232
+            },
+            {
+              "nombre": "MARIA RAMIREZ MARTINEZ",
+              "votos": 19
+            },
+            {
+              "nombre": "VALENTINA RAMIREZ DIAZ",
+              "votos": 478
+            },
+            {
+              "nombre": "MARIA TORRES RAMIREZ",
+              "votos": 528
+            },
+            {
+              "nombre": "CAMILA CASTRO GOMEZ",
+              "votos": 448
+            }
+          ],
+          "votos_partido": 1705
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "ANDRES GOMEZ CASTRO",
+              "votos": 429
+            },
+            {
+              "nombre": "JORGE DIAZ RODRIGUEZ",
+              "votos": 0
+            },
+            {
+              "nombre": "MARIA SANCHEZ PEREZ",
+              "votos": 385
+            },
+            {
+              "nombre": "CARLOS TORRES GOMEZ",
+              "votos": 648
+            },
+            {
+              "nombre": "CARLOS RAMIREZ GOMEZ",
+              "votos": 32
+            }
+          ],
+          "votos_partido": 1494
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA MARTINEZ MARTINEZ",
+              "votos": 78
+            },
+            {
+              "nombre": "VALENTINA PEREZ SANCHEZ",
+              "votos": 444
+            },
+            {
+              "nombre": "DAVID SANCHEZ SANCHEZ",
+              "votos": 621
+            },
+            {
+              "nombre": "CARLOS MORENO MORENO",
+              "votos": 586
+            }
+          ],
+          "votos_partido": 1729
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "LAURA RODRIGUEZ MARTINEZ",
+              "votos": 751
+            },
+            {
+              "nombre": "SANTIAGO TORRES MARTINEZ",
+              "votos": 32
+            },
+            {
+              "nombre": "PAOLA GOMEZ GOMEZ",
+              "votos": 152
+            }
+          ],
+          "votos_partido": 935
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "DAVID MORENO CASTRO",
+              "votos": 169
+            },
+            {
+              "nombre": "VALENTINA TORRES SANCHEZ",
+              "votos": 200
+            },
+            {
+              "nombre": "PAOLA LOPEZ RAMIREZ",
+              "votos": 243
+            },
+            {
+              "nombre": "LAURA MARTINEZ GARCIA",
+              "votos": 2
+            }
+          ],
+          "votos_partido": 614
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "ANA GOMEZ MORENO",
+              "votos": 470
+            },
+            {
+              "nombre": "VALENTINA DIAZ GOMEZ",
+              "votos": 328
+            },
+            {
+              "nombre": "PAOLA LOPEZ RODRIGUEZ",
+              "votos": 525
+            }
+          ],
+          "votos_partido": 1323
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "MARIA RAMIREZ DIAZ",
+              "votos": 1504
+            },
+            {
+              "nombre": "MARIA LOPEZ CASTRO",
+              "votos": 11
+            }
+          ],
+          "votos_partido": 1515
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "SANTIAGO RAMIREZ LOPEZ",
+              "votos": 357
+            },
+            {
+              "nombre": "JORGE GOMEZ MARTINEZ",
+              "votos": 478
+            }
+          ],
+          "votos_partido": 835
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA CASTRO DIAZ",
+              "votos": 372
+            },
+            {
+              "nombre": "FELIPE DIAZ DIAZ",
+              "votos": 6
+            },
+            {
+              "nombre": "FELIPE LOPEZ GARCIA",
+              "votos": 541
+            },
+            {
+              "nombre": "LUIS MORENO TORRES",
+              "votos": 395
+            }
+          ],
+          "votos_partido": 1314
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA GARCIA GARCIA",
+              "votos": 31
+            },
+            {
+              "nombre": "MARIA TORRES DIAZ",
+              "votos": 430
+            },
+            {
+              "nombre": "DIANA MORENO MORENO",
+              "votos": 363
+            }
+          ],
+          "votos_partido": 824
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "SOFIA GOMEZ PEREZ",
+              "votos": 282
+            },
+            {
+              "nombre": "SANTIAGO TORRES PEREZ",
+              "votos": 98
+            },
+            {
+              "nombre": "VALENTINA SANCHEZ MARTINEZ",
+              "votos": 349
+            },
+            {
+              "nombre": "CAMILA SANCHEZ MARTINEZ",
+              "votos": 575
+            },
+            {
+              "nombre": "SOFIA LOPEZ LOPEZ",
+              "votos": 114
+            }
+          ],
+          "votos_partido": 1418
+        }
+      ]
+    },
+    {
+      "codpuesto": "15238007",
+      "nombre_puesto": "PUESTO 7 - DUITAMA",
+      "mesas": 3,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "LUIS MARTINEZ PEREZ",
+              "votos": 10
+            },
+            {
+              "nombre": "DAVID RODRIGUEZ MORENO",
+              "votos": 39
+            },
+            {
+              "nombre": "JORGE CASTRO DIAZ",
+              "votos": 40
+            }
+          ],
+          "votos_partido": 89
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "CARLOS TORRES RAMIREZ",
+              "votos": 136
+            },
+            {
+              "nombre": "MARIA RAMIREZ MARTINEZ",
+              "votos": 14
+            },
+            {
+              "nombre": "VALENTINA RAMIREZ DIAZ",
+              "votos": 40
+            },
+            {
+              "nombre": "MARIA TORRES RAMIREZ",
+              "votos": 61
+            },
+            {
+              "nombre": "CAMILA CASTRO GOMEZ",
+              "votos": 133
+            }
+          ],
+          "votos_partido": 384
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "ANDRES GOMEZ CASTRO",
+              "votos": 205
+            },
+            {
+              "nombre": "JORGE DIAZ RODRIGUEZ",
+              "votos": 97
+            },
+            {
+              "nombre": "MARIA SANCHEZ PEREZ",
+              "votos": 0
+            },
+            {
+              "nombre": "CARLOS TORRES GOMEZ",
+              "votos": 8
+            },
+            {
+              "nombre": "CARLOS RAMIREZ GOMEZ",
+              "votos": 141
+            }
+          ],
+          "votos_partido": 451
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA MARTINEZ MARTINEZ",
+              "votos": 1
+            },
+            {
+              "nombre": "VALENTINA PEREZ SANCHEZ",
+              "votos": 71
+            },
+            {
+              "nombre": "DAVID SANCHEZ SANCHEZ",
+              "votos": 1
+            },
+            {
+              "nombre": "CARLOS MORENO MORENO",
+              "votos": 7
+            }
+          ],
+          "votos_partido": 80
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "LAURA RODRIGUEZ MARTINEZ",
+              "votos": 188
+            },
+            {
+              "nombre": "SANTIAGO TORRES MARTINEZ",
+              "votos": 83
+            },
+            {
+              "nombre": "PAOLA GOMEZ GOMEZ",
+              "votos": 37
+            }
+          ],
+          "votos_partido": 308
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "DAVID MORENO CASTRO",
+              "votos": 19
+            },
+            {
+              "nombre": "VALENTINA TORRES SANCHEZ",
+              "votos": 49
+            },
+            {
+              "nombre": "PAOLA LOPEZ RAMIREZ",
+              "votos": 10
+            },
+            {
+              "nombre": "LAURA MARTINEZ GARCIA",
+              "votos": 9
+            }
+          ],
+          "votos_partido": 87
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "ANA GOMEZ MORENO",
+              "votos": 427
+            },
+            {
+              "nombre": "VALENTINA DIAZ GOMEZ",
+              "votos": 0
+            },
+            {
+              "nombre": "PAOLA LOPEZ RODRIGUEZ",
+              "votos": 99
+            }
+          ],
+          "votos_partido": 526
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "MARIA RAMIREZ DIAZ",
+              "votos": 90
+            },
+            {
+              "nombre": "MARIA LOPEZ CASTRO",
+              "votos": 5
+            }
+          ],
+          "votos_partido": 95
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "SANTIAGO RAMIREZ LOPEZ",
+              "votos": 320
+            },
+            {
+              "nombre": "JORGE GOMEZ MARTINEZ",
+              "votos": 163
+            }
+          ],
+          "votos_partido": 483
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA CASTRO DIAZ",
+              "votos": 12
+            },
+            {
+              "nombre": "FELIPE DIAZ DIAZ",
+              "votos": 20
+            },
+            {
+              "nombre": "FELIPE LOPEZ GARCIA",
+              "votos": 23
+            },
+            {
+              "nombre": "LUIS MORENO TORRES",
+              "votos": 70
+            }
+          ],
+          "votos_partido": 125
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA GARCIA GARCIA",
+              "votos": 22
+            },
+            {
+              "nombre": "MARIA TORRES DIAZ",
+              "votos": 270
+            },
+            {
+              "nombre": "DIANA MORENO MORENO",
+              "votos": 123
+            }
+          ],
+          "votos_partido": 415
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "SOFIA GOMEZ PEREZ",
+              "votos": 14
+            },
+            {
+              "nombre": "SANTIAGO TORRES PEREZ",
+              "votos": 21
+            },
+            {
+              "nombre": "VALENTINA SANCHEZ MARTINEZ",
+              "votos": 5
+            },
+            {
+              "nombre": "CAMILA SANCHEZ MARTINEZ",
+              "votos": 5
+            },
+            {
+              "nombre": "SOFIA LOPEZ LOPEZ",
+              "votos": 0
+            }
+          ],
+          "votos_partido": 45
+        }
+      ]
+    },
+    {
+      "codpuesto": "15238008",
+      "nombre_puesto": "PUESTO 8 - DUITAMA",
+      "mesas": 6,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "LUIS MARTINEZ PEREZ",
+              "votos": 20
+            },
+            {
+              "nombre": "DAVID RODRIGUEZ MORENO",
+              "votos": 128
+            },
+            {
+              "nombre": "JORGE CASTRO DIAZ",
+              "votos": 163
+            }
+          ],
+          "votos_partido": 311
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "CARLOS TORRES RAMIREZ",
+              "votos": 7
+            },
+            {
+              "nombre": "MARIA RAMIREZ MARTINEZ",
+              "votos": 521
+            },
+            {
+              "nombre": "VALENTINA RAMIREZ DIAZ",
+              "votos": 23
+            },
+            {
+              "nombre": "MARIA TORRES RAMIREZ",
+              "votos": 72
+            },
+            {
+              "nombre": "CAMILA CASTRO GOMEZ",
+              "votos": 143
+            }
+          ],
+          "votos_partido": 766
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "ANDRES GOMEZ CASTRO",
+              "votos": 91
+            },
+            {
+              "nombre": "JORGE DIAZ RODRIGUEZ",
+              "votos": 48
+            },
+            {
+              "nombre": "MARIA SANCHEZ PEREZ",
+              "votos": 189
+            },
+            {
+              "nombre": "CARLOS TORRES GOMEZ",
+              "votos": 19
+            },
+            {
+              "nombre": "CARLOS RAMIREZ GOMEZ",
+              "votos": 30
+            }
+          ],
+          "votos_partido": 377
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA MARTINEZ MARTINEZ",
+              "votos": 119
+            },
+            {
+              "nombre": "VALENTINA PEREZ SANCHEZ",
+              "votos": 41
+            },
+            {
+              "nombre": "DAVID SANCHEZ SANCHEZ",
+              "votos": 247
+            },
+            {
+              "nombre": "CARLOS MORENO MORENO",
+              "votos": 132
+            }
+          ],
+          "votos_partido": 539
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "LAURA RODRIGUEZ MARTINEZ",
+              "votos": 247
+            },
+            {
+              "nombre": "SANTIAGO TORRES MARTINEZ",
+              "votos": 350
+            },
+            {
+              "nombre": "PAOLA GOMEZ GOMEZ",
+              "votos": 461
+            }
+          ],
+          "votos_partido": 1058
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "DAVID MORENO CASTRO",
+              "votos": 42
+            },
+            {
+              "nombre": "VALENTINA TORRES SANCHEZ",
+              "votos": 106
+            },
+            {
+              "nombre": "PAOLA LOPEZ RAMIREZ",
+              "votos": 82
+            },
+            {
+              "nombre": "LAURA MARTINEZ GARCIA",
+              "votos": 552
+            }
+          ],
+          "votos_partido": 782
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "ANA GOMEZ MORENO",
+              "votos": 127
+            },
+            {
+              "nombre": "VALENTINA DIAZ GOMEZ",
+              "votos": 18
+            },
+            {
+              "nombre": "PAOLA LOPEZ RODRIGUEZ",
+              "votos": 138
+            }
+          ],
+          "votos_partido": 283
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "MARIA RAMIREZ DIAZ",
+              "votos": 90
+            },
+            {
+              "nombre": "MARIA LOPEZ CASTRO",
+              "votos": 701
+            }
+          ],
+          "votos_partido": 791
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "SANTIAGO RAMIREZ LOPEZ",
+              "votos": 129
+            },
+            {
+              "nombre": "JORGE GOMEZ MARTINEZ",
+              "votos": 158
+            }
+          ],
+          "votos_partido": 287
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA CASTRO DIAZ",
+              "votos": 732
+            },
+            {
+              "nombre": "FELIPE DIAZ DIAZ",
+              "votos": 25
+            },
+            {
+              "nombre": "FELIPE LOPEZ GARCIA",
+              "votos": 23
+            },
+            {
+              "nombre": "LUIS MORENO TORRES",
+              "votos": 70
+            }
+          ],
+          "votos_partido": 850
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA GARCIA GARCIA",
+              "votos": 93
+            },
+            {
+              "nombre": "MARIA TORRES DIAZ",
+              "votos": 192
+            },
+            {
+              "nombre": "DIANA MORENO MORENO",
+              "votos": 2
+            }
+          ],
+          "votos_partido": 287
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "SOFIA GOMEZ PEREZ",
+              "votos": 275
+            },
+            {
+              "nombre": "SANTIAGO TORRES PEREZ",
+              "votos": 71
+            },
+            {
+              "nombre": "VALENTINA SANCHEZ MARTINEZ",
+              "votos": 11
+            },
+            {
+              "nombre": "CAMILA SANCHEZ MARTINEZ",
+              "votos": 44
+            },
+            {
+              "nombre": "SOFIA LOPEZ LOPEZ",
+              "votos": 96
+            }
+          ],
+          "votos_partido": 497
+        }
+      ]
+    },
+    {
+      "codpuesto": "15238009",
+      "nombre_puesto": "PUESTO 9 - DUITAMA",
+      "mesas": 10,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "LUIS MARTINEZ PEREZ",
+              "votos": 325
+            },
+            {
+              "nombre": "DAVID RODRIGUEZ MORENO",
+              "votos": 120
+            },
+            {
+              "nombre": "JORGE CASTRO DIAZ",
+              "votos": 490
+            }
+          ],
+          "votos_partido": 935
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "CARLOS TORRES RAMIREZ",
+              "votos": 29
+            },
+            {
+              "nombre": "MARIA RAMIREZ MARTINEZ",
+              "votos": 341
+            },
+            {
+              "nombre": "VALENTINA RAMIREZ DIAZ",
+              "votos": 675
+            },
+            {
+              "nombre": "MARIA TORRES RAMIREZ",
+              "votos": 51
+            },
+            {
+              "nombre": "CAMILA CASTRO GOMEZ",
+              "votos": 1
+            }
+          ],
+          "votos_partido": 1097
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "ANDRES GOMEZ CASTRO",
+              "votos": 97
+            },
+            {
+              "nombre": "JORGE DIAZ RODRIGUEZ",
+              "votos": 9
+            },
+            {
+              "nombre": "MARIA SANCHEZ PEREZ",
+              "votos": 70
+            },
+            {
+              "nombre": "CARLOS TORRES GOMEZ",
+              "votos": 185
+            },
+            {
+              "nombre": "CARLOS RAMIREZ GOMEZ",
+              "votos": 197
+            }
+          ],
+          "votos_partido": 558
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA MARTINEZ MARTINEZ",
+              "votos": 334
+            },
+            {
+              "nombre": "VALENTINA PEREZ SANCHEZ",
+              "votos": 420
+            },
+            {
+              "nombre": "DAVID SANCHEZ SANCHEZ",
+              "votos": 91
+            },
+            {
+              "nombre": "CARLOS MORENO MORENO",
+              "votos": 377
+            }
+          ],
+          "votos_partido": 1222
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "LAURA RODRIGUEZ MARTINEZ",
+              "votos": 172
+            },
+            {
+              "nombre": "SANTIAGO TORRES MARTINEZ",
+              "votos": 337
+            },
+            {
+              "nombre": "PAOLA GOMEZ GOMEZ",
+              "votos": 339
+            }
+          ],
+          "votos_partido": 848
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "DAVID MORENO CASTRO",
+              "votos": 151
+            },
+            {
+              "nombre": "VALENTINA TORRES SANCHEZ",
+              "votos": 496
+            },
+            {
+              "nombre": "PAOLA LOPEZ RAMIREZ",
+              "votos": 5
+            },
+            {
+              "nombre": "LAURA MARTINEZ GARCIA",
+              "votos": 349
+            }
+          ],
+          "votos_partido": 1001
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "ANA GOMEZ MORENO",
+              "votos": 121
+            },
+            {
+              "nombre": "VALENTINA DIAZ GOMEZ",
+              "votos": 1514
+            },
+            {
+              "nombre": "PAOLA LOPEZ RODRIGUEZ",
+              "votos": 2
+            }
+          ],
+          "votos_partido": 1637
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "MARIA RAMIREZ DIAZ",
+              "votos": 98
+            },
+            {
+              "nombre": "MARIA LOPEZ CASTRO",
+              "votos": 539
+            }
+          ],
+          "votos_partido": 637
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "SANTIAGO RAMIREZ LOPEZ",
+              "votos": 979
+            },
+            {
+              "nombre": "JORGE GOMEZ MARTINEZ",
+              "votos": 18
+            }
+          ],
+          "votos_partido": 997
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA CASTRO DIAZ",
+              "votos": 83
+            },
+            {
+              "nombre": "FELIPE DIAZ DIAZ",
+              "votos": 979
+            },
+            {
+              "nombre": "FELIPE LOPEZ GARCIA",
+              "votos": 515
+            },
+            {
+              "nombre": "LUIS MORENO TORRES",
+              "votos": 183
+            }
+          ],
+          "votos_partido": 1760
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA GARCIA GARCIA",
+              "votos": 618
+            },
+            {
+              "nombre": "MARIA TORRES DIAZ",
+              "votos": 304
+            },
+            {
+              "nombre": "DIANA MORENO MORENO",
+              "votos": 630
+            }
+          ],
+          "votos_partido": 1552
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "SOFIA GOMEZ PEREZ",
+              "votos": 250
+            },
+            {
+              "nombre": "SANTIAGO TORRES PEREZ",
+              "votos": 250
+            },
+            {
+              "nombre": "VALENTINA SANCHEZ MARTINEZ",
+              "votos": 20
+            },
+            {
+              "nombre": "CAMILA SANCHEZ MARTINEZ",
+              "votos": 721
+            },
+            {
+              "nombre": "SOFIA LOPEZ LOPEZ",
+              "votos": 463
+            }
+          ],
+          "votos_partido": 1704
+        }
+      ]
+    },
+    {
+      "codpuesto": "15238010",
+      "nombre_puesto": "PUESTO 10 - DUITAMA",
+      "mesas": 5,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "LUIS MARTINEZ PEREZ",
+              "votos": 266
+            },
+            {
+              "nombre": "DAVID RODRIGUEZ MORENO",
+              "votos": 23
+            },
+            {
+              "nombre": "JORGE CASTRO DIAZ",
+              "votos": 91
+            }
+          ],
+          "votos_partido": 380
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "CARLOS TORRES RAMIREZ",
+              "votos": 187
+            },
+            {
+              "nombre": "MARIA RAMIREZ MARTINEZ",
+              "votos": 89
+            },
+            {
+              "nombre": "VALENTINA RAMIREZ DIAZ",
+              "votos": 1
+            },
+            {
+              "nombre": "MARIA TORRES RAMIREZ",
+              "votos": 178
+            },
+            {
+              "nombre": "CAMILA CASTRO GOMEZ",
+              "votos": 119
+            }
+          ],
+          "votos_partido": 574
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "ANDRES GOMEZ CASTRO",
+              "votos": 42
+            },
+            {
+              "nombre": "JORGE DIAZ RODRIGUEZ",
+              "votos": 32
+            },
+            {
+              "nombre": "MARIA SANCHEZ PEREZ",
+              "votos": 0
+            },
+            {
+              "nombre": "CARLOS TORRES GOMEZ",
+              "votos": 32
+            },
+            {
+              "nombre": "CARLOS RAMIREZ GOMEZ",
+              "votos": 2
+            }
+          ],
+          "votos_partido": 108
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA MARTINEZ MARTINEZ",
+              "votos": 78
+            },
+            {
+              "nombre": "VALENTINA PEREZ SANCHEZ",
+              "votos": 46
+            },
+            {
+              "nombre": "DAVID SANCHEZ SANCHEZ",
+              "votos": 537
+            },
+            {
+              "nombre": "CARLOS MORENO MORENO",
+              "votos": 116
+            }
+          ],
+          "votos_partido": 777
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "LAURA RODRIGUEZ MARTINEZ",
+              "votos": 112
+            },
+            {
+              "nombre": "SANTIAGO TORRES MARTINEZ",
+              "votos": 24
+            },
+            {
+              "nombre": "PAOLA GOMEZ GOMEZ",
+              "votos": 57
+            }
+          ],
+          "votos_partido": 193
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "DAVID MORENO CASTRO",
+              "votos": 2
+            },
+            {
+              "nombre": "VALENTINA TORRES SANCHEZ",
+              "votos": 232
+            },
+            {
+              "nombre": "PAOLA LOPEZ RAMIREZ",
+              "votos": 217
+            },
+            {
+              "nombre": "LAURA MARTINEZ GARCIA",
+              "votos": 59
+            }
+          ],
+          "votos_partido": 510
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "ANA GOMEZ MORENO",
+              "votos": 58
+            },
+            {
+              "nombre": "VALENTINA DIAZ GOMEZ",
+              "votos": 656
+            },
+            {
+              "nombre": "PAOLA LOPEZ RODRIGUEZ",
+              "votos": 102
+            }
+          ],
+          "votos_partido": 816
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "MARIA RAMIREZ DIAZ",
+              "votos": 548
+            },
+            {
+              "nombre": "MARIA LOPEZ CASTRO",
+              "votos": 0
+            }
+          ],
+          "votos_partido": 548
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "SANTIAGO RAMIREZ LOPEZ",
+              "votos": 831
+            },
+            {
+              "nombre": "JORGE GOMEZ MARTINEZ",
+              "votos": 10
+            }
+          ],
+          "votos_partido": 841
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA CASTRO DIAZ",
+              "votos": 93
+            },
+            {
+              "nombre": "FELIPE DIAZ DIAZ",
+              "votos": 112
+            },
+            {
+              "nombre": "FELIPE LOPEZ GARCIA",
+              "votos": 167
+            },
+            {
+              "nombre": "LUIS MORENO TORRES",
+              "votos": 146
+            }
+          ],
+          "votos_partido": 518
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA GARCIA GARCIA",
+              "votos": 78
+            },
+            {
+              "nombre": "MARIA TORRES DIAZ",
+              "votos": 304
+            },
+            {
+              "nombre": "DIANA MORENO MORENO",
+              "votos": 74
+            }
+          ],
+          "votos_partido": 456
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "SOFIA GOMEZ PEREZ",
+              "votos": 27
+            },
+            {
+              "nombre": "SANTIAGO TORRES PEREZ",
+              "votos": 21
+            },
+            {
+              "nombre": "VALENTINA SANCHEZ MARTINEZ",
+              "votos": 79
+            },
+            {
+              "nombre": "CAMILA SANCHEZ MARTINEZ",
+              "votos": 4
+            },
+            {
+              "nombre": "SOFIA LOPEZ LOPEZ",
+              "votos": 191
+            }
+          ],
+          "votos_partido": 322
+        }
+      ]
+    },
+    {
+      "codpuesto": "15238011",
+      "nombre_puesto": "PUESTO 11 - DUITAMA",
+      "mesas": 8,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "LUIS MARTINEZ PEREZ",
+              "votos": 712
+            },
+            {
+              "nombre": "DAVID RODRIGUEZ MORENO",
+              "votos": 2
+            },
+            {
+              "nombre": "JORGE CASTRO DIAZ",
+              "votos": 480
+            }
+          ],
+          "votos_partido": 1194
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "CARLOS TORRES RAMIREZ",
+              "votos": 0
+            },
+            {
+              "nombre": "MARIA RAMIREZ MARTINEZ",
+              "votos": 345
+            },
+            {
+              "nombre": "VALENTINA RAMIREZ DIAZ",
+              "votos": 9
+            },
+            {
+              "nombre": "MARIA TORRES RAMIREZ",
+              "votos": 83
+            },
+            {
+              "nombre": "CAMILA CASTRO GOMEZ",
+              "votos": 393
+            }
+          ],
+          "votos_partido": 830
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "ANDRES GOMEZ CASTRO",
+              "votos": 32
+            },
+            {
+              "nombre": "JORGE DIAZ RODRIGUEZ",
+              "votos": 377
+            },
+            {
+              "nombre": "MARIA SANCHEZ PEREZ",
+              "votos": 13
+            },
+            {
+              "nombre": "CARLOS TORRES GOMEZ",
+              "votos": 336
+            },
+            {
+              "nombre": "CARLOS RAMIREZ GOMEZ",
+              "votos": 20
+            }
+          ],
+          "votos_partido": 778
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA MARTINEZ MARTINEZ",
+              "votos": 7
+            },
+            {
+              "nombre": "VALENTINA PEREZ SANCHEZ",
+              "votos": 116
+            },
+            {
+              "nombre": "DAVID SANCHEZ SANCHEZ",
+              "votos": 6
+            },
+            {
+              "nombre": "CARLOS MORENO MORENO",
+              "votos": 397
+            }
+          ],
+          "votos_partido": 526
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "LAURA RODRIGUEZ MARTINEZ",
+              "votos": 112
+            },
+            {
+              "nombre": "SANTIAGO TORRES MARTINEZ",
+              "votos": 645
+            },
+            {
+              "nombre": "PAOLA GOMEZ GOMEZ",
+              "votos": 383
+            }
+          ],
+          "votos_partido": 1140
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "DAVID MORENO CASTRO",
+              "votos": 905
+            },
+            {
+              "nombre": "VALENTINA TORRES SANCHEZ",
+              "votos": 292
+            },
+            {
+              "nombre": "PAOLA LOPEZ RAMIREZ",
+              "votos": 13
+            },
+            {
+              "nombre": "LAURA MARTINEZ GARCIA",
+              "votos": 14
+            }
+          ],
+          "votos_partido": 1224
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "ANA GOMEZ MORENO",
+              "votos": 328
+            },
+            {
+              "nombre": "VALENTINA DIAZ GOMEZ",
+              "votos": 25
+            },
+            {
+              "nombre": "PAOLA LOPEZ RODRIGUEZ",
+              "votos": 73
+            }
+          ],
+          "votos_partido": 426
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "MARIA RAMIREZ DIAZ",
+              "votos": 1192
+            },
+            {
+              "nombre": "MARIA LOPEZ CASTRO",
+              "votos": 0
+            }
+          ],
+          "votos_partido": 1192
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "SANTIAGO RAMIREZ LOPEZ",
+              "votos": 260
+            },
+            {
+              "nombre": "JORGE GOMEZ MARTINEZ",
+              "votos": 380
+            }
+          ],
+          "votos_partido": 640
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA CASTRO DIAZ",
+              "votos": 482
+            },
+            {
+              "nombre": "FELIPE DIAZ DIAZ",
+              "votos": 228
+            },
+            {
+              "nombre": "FELIPE LOPEZ GARCIA",
+              "votos": 52
+            },
+            {
+              "nombre": "LUIS MORENO TORRES",
+              "votos": 7
+            }
+          ],
+          "votos_partido": 769
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA GARCIA GARCIA",
+              "votos": 16
+            },
+            {
+              "nombre": "MARIA TORRES DIAZ",
+              "votos": 155
+            },
+            {
+              "nombre": "DIANA MORENO MORENO",
+              "votos": 1228
+            }
+          ],
+          "votos_partido": 1399
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "SOFIA GOMEZ PEREZ",
+              "votos": 18
+            },
+            {
+              "nombre": "SANTIAGO TORRES PEREZ",
+              "votos": 82
+            },
+            {
+              "nombre": "VALENTINA SANCHEZ MARTINEZ",
+              "votos": 95
+            },
+            {
+              "nombre": "CAMILA SANCHEZ MARTINEZ",
+              "votos": 51
+            },
+            {
+              "nombre": "SOFIA LOPEZ LOPEZ",
+              "votos": 57
+            }
+          ],
+          "votos_partido": 303
+        }
+      ]
+    },
+    {
+      "codpuesto": "15238012",
+      "nombre_puesto": "PUESTO 12 - DUITAMA",
+      "mesas": 4,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "LUIS MARTINEZ PEREZ",
+              "votos": 209
+            },
+            {
+              "nombre": "DAVID RODRIGUEZ MORENO",
+              "votos": 246
+            },
+            {
+              "nombre": "JORGE CASTRO DIAZ",
+              "votos": 17
+            }
+          ],
+          "votos_partido": 472
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "CARLOS TORRES RAMIREZ",
+              "votos": 108
+            },
+            {
+              "nombre": "MARIA RAMIREZ MARTINEZ",
+              "votos": 81
+            },
+            {
+              "nombre": "VALENTINA RAMIREZ DIAZ",
+              "votos": 4
+            },
+            {
+              "nombre": "MARIA TORRES RAMIREZ",
+              "votos": 35
+            },
+            {
+              "nombre": "CAMILA CASTRO GOMEZ",
+              "votos": 97
+            }
+          ],
+          "votos_partido": 325
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "ANDRES GOMEZ CASTRO",
+              "votos": 1
+            },
+            {
+              "nombre": "JORGE DIAZ RODRIGUEZ",
+              "votos": 2
+            },
+            {
+              "nombre": "MARIA SANCHEZ PEREZ",
+              "votos": 113
+            },
+            {
+              "nombre": "CARLOS TORRES GOMEZ",
+              "votos": 69
+            },
+            {
+              "nombre": "CARLOS RAMIREZ GOMEZ",
+              "votos": 29
+            }
+          ],
+          "votos_partido": 214
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA MARTINEZ MARTINEZ",
+              "votos": 191
+            },
+            {
+              "nombre": "VALENTINA PEREZ SANCHEZ",
+              "votos": 37
+            },
+            {
+              "nombre": "DAVID SANCHEZ SANCHEZ",
+              "votos": 148
+            },
+            {
+              "nombre": "CARLOS MORENO MORENO",
+              "votos": 13
+            }
+          ],
+          "votos_partido": 389
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "LAURA RODRIGUEZ MARTINEZ",
+              "votos": 184
+            },
+            {
+              "nombre": "SANTIAGO TORRES MARTINEZ",
+              "votos": 265
+            },
+            {
+              "nombre": "PAOLA GOMEZ GOMEZ",
+              "votos": 41
+            }
+          ],
+          "votos_partido": 490
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "DAVID MORENO CASTRO",
+              "votos": 0
+            },
+            {
+              "nombre": "VALENTINA TORRES SANCHEZ",
+              "votos": 284
+            },
+            {
+              "nombre": "PAOLA LOPEZ RAMIREZ",
+              "votos": 303
+            },
+            {
+              "nombre": "LAURA MARTINEZ GARCIA",
+              "votos": 16
+            }
+          ],
+          "votos_partido": 603
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "ANA GOMEZ MORENO",
+              "votos": 153
+            },
+            {
+              "nombre": "VALENTINA DIAZ GOMEZ",
+              "votos": 330
+            },
+            {
+              "nombre": "PAOLA LOPEZ RODRIGUEZ",
+              "votos": 51
+            }
+          ],
+          "votos_partido": 534
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "MARIA RAMIREZ DIAZ",
+              "votos": 41
+            },
+            {
+              "nombre": "MARIA LOPEZ CASTRO",
+              "votos": 42
+            }
+          ],
+          "votos_partido": 83
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "SANTIAGO RAMIREZ LOPEZ",
+              "votos": 224
+            },
+            {
+              "nombre": "JORGE GOMEZ MARTINEZ",
+              "votos": 11
+            }
+          ],
+          "votos_partido": 235
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA CASTRO DIAZ",
+              "votos": 151
+            },
+            {
+              "nombre": "FELIPE DIAZ DIAZ",
+              "votos": 1
+            },
+            {
+              "nombre": "FELIPE LOPEZ GARCIA",
+              "votos": 294
+            },
+            {
+              "nombre": "LUIS MORENO TORRES",
+              "votos": 0
+            }
+          ],
+          "votos_partido": 446
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA GARCIA GARCIA",
+              "votos": 179
+            },
+            {
+              "nombre": "MARIA TORRES DIAZ",
+              "votos": 3
+            },
+            {
+              "nombre": "DIANA MORENO MORENO",
+              "votos": 152
+            }
+          ],
+          "votos_partido": 334
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "SOFIA GOMEZ PEREZ",
+              "votos": 52
+            },
+            {
+              "nombre": "SANTIAGO TORRES PEREZ",
+              "votos": 88
+            },
+            {
+              "nombre": "VALENTINA SANCHEZ MARTINEZ",
+              "votos": 8
+            },
+            {
+              "nombre": "CAMILA SANCHEZ MARTINEZ",
+              "votos": 65
+            },
+            {
+              "nombre": "SOFIA LOPEZ LOPEZ",
+              "votos": 289
+            }
+          ],
+          "votos_partido": 502
+        }
+      ]
+    }
+  ]
+}

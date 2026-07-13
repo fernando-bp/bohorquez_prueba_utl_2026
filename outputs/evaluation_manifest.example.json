@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "nombre": "GARCIA RODRIGUEZ JUAN PABLO",
+    "email": "juan.garcia@correo.com",
+    "url_repo": "https://github.com/juangarcia/garcia_prueba_utl_2026"
+  },
+  "reto1_extraccion": {
+    "municipios_presentes": [
+      "DUITAMA",
+      "PAIPA",
+      "SOGAMOSO",
+      "TUNJA"
+    ],
+    "ok": true
+  },
+  "reto2_base_datos": {
+    "municipios": 4,
+    "puestos": 48,
+    "partidos": 12,
+    "candidatos": 153,
+    "votos": 1836
+  },
+  "reto3_sql": {
+    "tarea_3_1.sql": {
+      "status": "OK",
+      "n_filas": 48
+    },
+    "tarea_3_2.sql": {
+      "status": "OK",
+      "n_filas": 290
+    },
+    "tarea_3_3.sql": {
+      "status": "OK",
+      "n_filas": 5
+    }
+  },
+  "reto5_scatter_metrics": {
+    "r": 0.735,
+    "pendiente": 0.738,
+    "n_mesas": 48
+  },
+  "resumen": {
+    "municipios_ok": true,
+    "sql_ok": true
+  }
+}

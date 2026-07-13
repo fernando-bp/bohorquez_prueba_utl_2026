@@ -1,0 +1,596 @@
+{
+  "municipios": [
+    "DUITAMA",
+    "PAIPA",
+    "SOGAMOSO",
+    "TUNJA"
+  ],
+  "comparativo_ca": {
+    "DUITAMA": 48187,
+    "PAIPA": 16807,
+    "SOGAMOSO": 50881,
+    "TUNJA": 72461
+  },
+  "por_municipio": {
+    "DUITAMA": {
+      "top_ca": [
+        {
+          "candidato": "HECTOR DAVID CHAPARRO CHAPARRO",
+          "partido": "PARTIDO CONSERVADOR",
+          "color": "#E07B00",
+          "votos": 4559
+        },
+        {
+          "candidato": "JAIME RAUL SALAMANCA TORRES",
+          "partido": "ALIANZA VERDE",
+          "color": "#007C34",
+          "votos": 2198
+        },
+        {
+          "candidato": "HERNEL DAVID ORTEGA GOMEZ",
+          "partido": "PARTIDO CONSERVADOR - MOVIMIENTO SALVACION NACIONAL",
+          "color": "#E07B00",
+          "votos": 1558
+        },
+        {
+          "candidato": "RAMIRO BARRAGAN ADAME",
+          "partido": "ALIANZA VERDE",
+          "color": "#007C34",
+          "votos": 1518
+        },
+        {
+          "candidato": "YAMIT NOE HURTADO NEIRA",
+          "partido": "ALIANZA VERDE",
+          "color": "#007C34",
+          "votos": 1316
+        },
+        {
+          "candidato": "INGRID MARLEN SOGAMOSO ALFONSO",
+          "partido": "PARTIDO CONSERVADOR - MOVIMIENTO SALVACION NACIONAL",
+          "color": "#E07B00",
+          "votos": 1148
+        },
+        {
+          "candidato": "NANCY YANETH ZAPATA PACHON",
+          "partido": "PARTIDO DE LA U - PARTIDO MIRA",
+          "color": "#00A3A3",
+          "votos": 1136
+        },
+        {
+          "candidato": "JICLY ESGARDO MUTIS ISAZA",
+          "partido": "CENTRO DEMOCRATICO",
+          "color": "#1E477D",
+          "votos": 1064
+        },
+        {
+          "candidato": "EDUAR ALEXIS TRIANA RINCON",
+          "partido": "CENTRO DEMOCRATICO",
+          "color": "#1E477D",
+          "votos": 924
+        },
+        {
+          "candidato": "JOSE DARIO MAHECHA CASTILLO",
+          "partido": "PARTIDO CONSERVADOR - MOVIMIENTO SALVACION NACIONAL",
+          "color": "#E07B00",
+          "votos": 920
+        }
+      ],
+      "lider_se": {
+        "partido": "PACTO HISTORICO",
+        "votos": 15423
+      }
+    },
+    "PAIPA": {
+      "top_ca": [
+        {
+          "candidato": "YAMIT NOE HURTADO NEIRA",
+          "partido": "ALIANZA VERDE",
+          "color": "#007C34",
+          "votos": 4756
+        },
+        {
+          "candidato": "JAIME RAUL SALAMANCA TORRES",
+          "partido": "ALIANZA VERDE",
+          "color": "#007C34",
+          "votos": 1465
+        },
+        {
+          "candidato": "HECTOR DAVID CHAPARRO CHAPARRO",
+          "partido": "PARTIDO CONSERVADOR",
+          "color": "#E07B00",
+          "votos": 1393
+        },
+        {
+          "candidato": "EDUAR ALEXIS TRIANA RINCON",
+          "partido": "CENTRO DEMOCRATICO",
+          "color": "#1E477D",
+          "votos": 869
+        },
+        {
+          "candidato": "WILDER IVAN SUESCA OCHOA",
+          "partido": "PARTIDO CONSERVADOR - MOVIMIENTO SALVACION NACIONAL",
+          "color": "#E07B00",
+          "votos": 729
+        },
+        {
+          "candidato": "RAMIRO BARRAGAN ADAME",
+          "partido": "ALIANZA VERDE",
+          "color": "#007C34",
+          "votos": 353
+        },
+        {
+          "candidato": "OSCAR LEONARDO AVILA ROMERO",
+          "partido": "PARTIDO CONSERVADOR",
+          "color": "#E07B00",
+          "votos": 273
+        },
+        {
+          "candidato": "NANCY YANETH ZAPATA PACHON",
+          "partido": "PARTIDO DE LA U - PARTIDO MIRA",
+          "color": "#00A3A3",
+          "votos": 268
+        },
+        {
+          "candidato": "INGRID MARLEN SOGAMOSO ALFONSO",
+          "partido": "PARTIDO CONSERVADOR - MOVIMIENTO SALVACION NACIONAL",
+          "color": "#E07B00",
+          "votos": 195
+        },
+        {
+          "candidato": "HERNEL DAVID ORTEGA GOMEZ",
+          "partido": "PARTIDO CONSERVADOR - MOVIMIENTO SALVACION NACIONAL",
+          "color": "#E07B00",
+          "votos": 185
+        }
+      ],
+      "lider_se": {
+        "partido": "ALIANZA VERDE",
+        "votos": 4161
+      }
+    },
+    "SOGAMOSO": {
+      "top_ca": [
+        {
+          "candidato": "HECTOR DAVID CHAPARRO CHAPARRO",
+          "partido": "PARTIDO CONSERVADOR",
+          "color": "#E07B00",
+          "votos": 5568
+        },
+        {
+          "candidato": "RAMIRO BARRAGAN ADAME",
+          "partido": "ALIANZA VERDE",
+          "color": "#007C34",
+          "votos": 2771
+        },
+        {
+          "candidato": "DIANA PAOLA HERRERA NUNEZ",
+          "partido": "PARTIDO CONSERVADOR",
+          "color": "#E07B00",
+          "votos": 1962
+        },
+        {
+          "candidato": "JAIME RAUL SALAMANCA TORRES",
+          "partido": "ALIANZA VERDE",
+          "color": "#007C34",
+          "votos": 1757
+        },
+        {
+          "candidato": "NADIA ALEXANDRA CARRENO AVELLA",
+          "partido": "CR - NUEVO LIBERALISMO",
+          "color": "#E3051C",
+          "votos": 1736
+        },
+        {
+          "candidato": "FABIAN CAMILO ROJAS BARRERA",
+          "partido": "CR - NUEVO LIBERALISMO",
+          "color": "#E3051C",
+          "votos": 1380
+        },
+        {
+          "candidato": "YURY NEILL DIAZ ARANGUREN",
+          "partido": "PARTIDO DE LA U - PARTIDO MIRA",
+          "color": "#00A3A3",
+          "votos": 1342
+        },
+        {
+          "candidato": "JAIRO ENRIQUE CASTIBLANCO PARRA",
+          "partido": "PARTIDO DE LA U - PARTIDO MIRA",
+          "color": "#00A3A3",
+          "votos": 1319
+        },
+        {
+          "candidato": "OSCAR LEONARDO AVILA ROMERO",
+          "partido": "PARTIDO CONSERVADOR",
+          "color": "#E07B00",
+          "votos": 1237
+        },
+        {
+          "candidato": "YAMIT NOE HURTADO NEIRA",
+          "partido": "ALIANZA VERDE",
+          "color": "#007C34",
+          "votos": 1201
+        }
+      ],
+      "lider_se": {
+        "partido": "PACTO HISTORICO",
+        "votos": 13957
+      }
+    },
+    "TUNJA": {
+      "top_ca": [
+        {
+          "candidato": "RAMIRO BARRAGAN ADAME",
+          "partido": "ALIANZA VERDE",
+          "color": "#007C34",
+          "votos": 4294
+        },
+        {
+          "candidato": "JAIME RAUL SALAMANCA TORRES",
+          "partido": "ALIANZA VERDE",
+          "color": "#007C34",
+          "votos": 3986
+        },
+        {
+          "candidato": "YAMIT NOE HURTADO NEIRA",
+          "partido": "ALIANZA VERDE",
+          "color": "#007C34",
+          "votos": 3933
+        },
+        {
+          "candidato": "INGRID MARLEN SOGAMOSO ALFONSO",
+          "partido": "PARTIDO CONSERVADOR - MOVIMIENTO SALVACION NACIONAL",
+          "color": "#E07B00",
+          "votos": 2903
+        },
+        {
+          "candidato": "FABIAN CAMILO ROJAS BARRERA",
+          "partido": "CR - NUEVO LIBERALISMO",
+          "color": "#E3051C",
+          "votos": 2848
+        },
+        {
+          "candidato": "WILDER IVAN SUESCA OCHOA",
+          "partido": "PARTIDO CONSERVADOR - MOVIMIENTO SALVACION NACIONAL",
+          "color": "#E07B00",
+          "votos": 2756
+        },
+        {
+          "candidato": "HECTOR DAVID CHAPARRO CHAPARRO",
+          "partido": "PARTIDO CONSERVADOR",
+          "color": "#E07B00",
+          "votos": 2341
+        },
+        {
+          "candidato": "JOSE DARIO MAHECHA CASTILLO",
+          "partido": "PARTIDO CONSERVADOR - MOVIMIENTO SALVACION NACIONAL",
+          "color": "#E07B00",
+          "votos": 2242
+        },
+        {
+          "candidato": "OSCAR LEONARDO AVILA ROMERO",
+          "partido": "PARTIDO CONSERVADOR",
+          "color": "#E07B00",
+          "votos": 2180
+        },
+        {
+          "candidato": "JAIRO ENRIQUE CASTIBLANCO PARRA",
+          "partido": "PARTIDO DE LA U - PARTIDO MIRA",
+          "color": "#00A3A3",
+          "votos": 1911
+        }
+      ],
+      "lider_se": {
+        "partido": "PACTO HISTORICO",
+        "votos": 20651
+      }
+    }
+  },
+  "arrastre_verde": {
+    "DUITAMA": [
+      {
+        "puesto": "COLEGIO SALESIANO",
+        "ratio": 1.297
+      },
+      {
+        "puesto": "ANTIGUO TERMINAL DE TRANSPORTE",
+        "ratio": 1.228
+      },
+      {
+        "puesto": "COL SANTO T DE AQUINO SD PRIA 1",
+        "ratio": 1.197
+      },
+      {
+        "puesto": "COL JESUS EUCARISTIA",
+        "ratio": 1.498
+      },
+      {
+        "puesto": "COL SANTO T DE AQUINO SD PRIA 2",
+        "ratio": 1.515
+      },
+      {
+        "puesto": "COL LA NUEVA FAMILIA",
+        "ratio": 1.352
+      },
+      {
+        "puesto": "COLEGIO BOYACA",
+        "ratio": 1.216
+      },
+      {
+        "puesto": "COL GUILLERMO LEON VALENCIA",
+        "ratio": 1.432
+      },
+      {
+        "puesto": "U.P.T.C.",
+        "ratio": 1.367
+      },
+      {
+        "puesto": "COL.FRANCISCO DE PAULA SANTAN",
+        "ratio": 1.127
+      },
+      {
+        "puesto": "COLEGIO SIMON BOLIVAR",
+        "ratio": 1.248
+      },
+      {
+        "puesto": "PARQUE LA ESPERANZA",
+        "ratio": 1.285
+      },
+      {
+        "puesto": "COLEGIO JAIRO ANIBAL NIÑO",
+        "ratio": 0.964
+      },
+      {
+        "puesto": "COLEGIO SEMINARIO",
+        "ratio": 1.262
+      },
+      {
+        "puesto": "CARCEL",
+        "ratio": 0.333
+      },
+      {
+        "puesto": "SIRATA",
+        "ratio": 1.154
+      },
+      {
+        "puesto": "SAN ANTONIO NORTE",
+        "ratio": 1.005
+      },
+      {
+        "puesto": "SURBA Y BONZA",
+        "ratio": 1.45
+      },
+      {
+        "puesto": "QUEBRADA DE BECERRA",
+        "ratio": 0.981
+      },
+      {
+        "puesto": "EL CARMEN",
+        "ratio": 1.4
+      },
+      {
+        "puesto": "AVENDAÑOS",
+        "ratio": 1.267
+      },
+      {
+        "puesto": "SALON COMUNAL TOCOGUA",
+        "ratio": 1.242
+      }
+    ],
+    "PAIPA": [
+      {
+        "puesto": "I.E.TOMAS VASQUEZ RODRIGUEZ",
+        "ratio": 0.587
+      },
+      {
+        "puesto": "I.E.EL ROSARIO SEDE CAMPESTRE",
+        "ratio": 0.625
+      },
+      {
+        "puesto": "COLISEO MUNICIPAL DE DEPORTES DE PAIPA",
+        "ratio": 0.597
+      },
+      {
+        "puesto": "I.E. EL ROSARIO SEDE CENTRAL",
+        "ratio": 0.602
+      },
+      {
+        "puesto": "PALERMO",
+        "ratio": 0.187
+      },
+      {
+        "puesto": "EL VENADO",
+        "ratio": 0.36
+      },
+      {
+        "puesto": "PANTANO DE VARGAS",
+        "ratio": 0.63
+      }
+    ],
+    "SOGAMOSO": [
+      {
+        "puesto": "IE INTEGRADO JOAQUIN GONZALEZ CAM",
+        "ratio": 0.932
+      },
+      {
+        "puesto": "COL REYES PATRIA",
+        "ratio": 1.013
+      },
+      {
+        "puesto": "UNIVERSIDAD DE BOYACA SEDE SOGAMOSO",
+        "ratio": 0.856
+      },
+      {
+        "puesto": "IE FRANCISCO DE PAULA SANTANDER",
+        "ratio": 1.035
+      },
+      {
+        "puesto": "COL NZADO GUSTAVO JIMENEZ",
+        "ratio": 1.159
+      },
+      {
+        "puesto": "IE LIBERTADOR",
+        "ratio": 1.086
+      },
+      {
+        "puesto": "IE MAGDALENA",
+        "ratio": 1.035
+      },
+      {
+        "puesto": "IEPAGS SEDE ROSARIO",
+        "ratio": 1.044
+      },
+      {
+        "puesto": "IE INSEANDES",
+        "ratio": 1.0
+      },
+      {
+        "puesto": "IE SUGAMUXI",
+        "ratio": 1.029
+      },
+      {
+        "puesto": "COL POLITÉCNICO",
+        "ratio": 1.078
+      },
+      {
+        "puesto": "IE SILVESTRE ARENAS",
+        "ratio": 0.945
+      },
+      {
+        "puesto": "COLEGIO CELCO",
+        "ratio": 0.988
+      },
+      {
+        "puesto": "CÁRCEL DEL CIRCUITO",
+        "ratio": 1.0
+      },
+      {
+        "puesto": "MORCA",
+        "ratio": 0.961
+      },
+      {
+        "puesto": "LA PLAYITA",
+        "ratio": 2.333
+      },
+      {
+        "puesto": "EL CRUCERO",
+        "ratio": 1.583
+      },
+      {
+        "puesto": "LAS CINTAS",
+        "ratio": 1.167
+      }
+    ],
+    "TUNJA": [
+      {
+        "puesto": "COL. BOYACA FCO DE PAULA SANTANDER",
+        "ratio": 1.004
+      },
+      {
+        "puesto": "I.T. GONZALO SUAREZ RENDON SEDE CENTRAL",
+        "ratio": 1.047
+      },
+      {
+        "puesto": "COL DE BOYACA SD JOSE IGNACIO DE MARQUEZ",
+        "ratio": 1.057
+      },
+      {
+        "puesto": "IES JUAN CASTELLANOS SD CRISANTO LUQUE",
+        "ratio": 0.982
+      },
+      {
+        "puesto": "AUDITORIO GUSTAVO M CASTELLANOS COMFABOY",
+        "ratio": 1.088
+      },
+      {
+        "puesto": "COLEGIO SALESIANO MALDONADO",
+        "ratio": 1.054
+      },
+      {
+        "puesto": "UNIVERSIDAD JUAN DE CASTELLANOS",
+        "ratio": 0.995
+      },
+      {
+        "puesto": "C.A.S.D. BARRIO SAN ANTONIO",
+        "ratio": 1.008
+      },
+      {
+        "puesto": "INEM CARLOS ARTURO TORRES SD CENTRAL",
+        "ratio": 0.976
+      },
+      {
+        "puesto": "IE LIBERTADOR SIMON BOLIVAR SEDE CENTRAL",
+        "ratio": 1.115
+      },
+      {
+        "puesto": "UNIVERSIDAD SANTO TOMAS",
+        "ratio": 0.958
+      },
+      {
+        "puesto": "COLISEO SAN ANTONIO",
+        "ratio": 0.952
+      },
+      {
+        "puesto": "I.E GUSTAVO ROJAS PINILLA SD CENTRAL",
+        "ratio": 1.136
+      },
+      {
+        "puesto": "IE LIBERTADOR SIMON BOLIVAR SN FRANCISCO",
+        "ratio": 1.093
+      },
+      {
+        "puesto": "I.E. SILVINO RODRIGUEZ SD MANZANARES",
+        "ratio": 0.968
+      },
+      {
+        "puesto": "IE NORMAL SUPERIOR SD JARDIN NACIONAL",
+        "ratio": 1.138
+      },
+      {
+        "puesto": "CTRO DE REHAB. INTEG. DE BOYACA - CRIB",
+        "ratio": 0.889
+      },
+      {
+        "puesto": "COLISEO CUBIERTO MUNICIPAL",
+        "ratio": 1.011
+      },
+      {
+        "puesto": "COLISEO MUNICIPAL COMFABOY",
+        "ratio": 1.03
+      },
+      {
+        "puesto": "N. S. LEONOR ALVAREZ PINZON PRIMARIA",
+        "ratio": 1.185
+      },
+      {
+        "puesto": "COLISEO I.R.D.ET",
+        "ratio": 1.117
+      },
+      {
+        "puesto": "I.E. ANTONIO JOSE SANDOVAL GOMEZ",
+        "ratio": 1.055
+      },
+      {
+        "puesto": "COLISEO UNIBOYACA",
+        "ratio": 0.986
+      },
+      {
+        "puesto": "PUESTO CENSO (COL. BOY SAN AGUSTIN)",
+        "ratio": 0.997
+      },
+      {
+        "puesto": "CARCEL",
+        "ratio": 1.0
+      },
+      {
+        "puesto": "PUENTE DE BOYACA",
+        "ratio": 0.66
+      }
+    ]
+  },
+  "colores_partido": {
+    "ALIANZA VERDE": "#007C34",
+    "PACTO HISTORICO": "#7B2D8B",
+    "CENTRO DEMOCRATICO": "#1E477D",
+    "PARTIDO CONSERVADOR": "#E07B00"
+  }
+}

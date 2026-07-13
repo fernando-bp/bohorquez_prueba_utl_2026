@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "nombre": "APELLIDO NOMBRE",
+    "email": "correo@ejemplo.com",
+    "url_repo": "https://github.com/TU_USUARIO/apellido_prueba_utl_2026"
+  },
+  "reto1_extraccion": {
+    "respuestas_municipales": 8,
+    "mesas": {
+      "DUITAMA_CA": 287,
+      "DUITAMA_SE": 287,
+      "PAIPA_CA": 95,
+      "PAIPA_SE": 95,
+      "SOGAMOSO_CA": 301,
+      "SOGAMOSO_SE": 301,
+      "TUNJA_CA": 424,
+      "TUNJA_SE": 424
+    },
+    "ok": true
+  },
+  "reto2_base_datos": {
+    "municipios": 4,
+    "puestos": 73,
+    "partidos": 25,
+    "candidatos": 1127,
+    "votos": 82271
+  },
+  "reto2_lideres_senado": {
+    "lideres_se": [
+      {
+        "municipio": "DUITAMA",
+        "codpar": 92,
+        "votos": 15423
+      },
+      {
+        "municipio": "PAIPA",
+        "codpar": 57,
+        "votos": 4161
+      },
+      {
+        "municipio": "SOGAMOSO",
+        "codpar": 92,
+        "votos": 13957
+      },
+      {
+        "municipio": "TUNJA",
+        "codpar": 92,
+        "votos": 20651
+      }
+    ],
+    "ok": true
+  },
+  "reto3_sql": {
+    "tarea_3_1.sql": {
+      "status": "OK",
+      "n_filas": 73
+    },
+    "tarea_3_2.sql": {
+      "status": "OK",
+      "n_filas": 169
+    },
+    "tarea_3_3.sql": {
+      "status": "OK",
+      "n_filas": 5
+    }
+  },
+  "reto5_scatter_metrics": {
+    "r": 0.999,
+    "pendiente": 1.006,
+    "n_mesas": 73
+  },
+  "resumen": {
+    "municipios_ok": true,
+    "extraccion_ok": true,
+    "lideres_se_ok": true,
+    "sql_ok": true
+  }
+}

@@ -1,0 +1,2946 @@
+{
+  "municipio": "PAIPA",
+  "codmpio": "15516",
+  "puestos": [
+    {
+      "codpuesto": "15516001",
+      "nombre_puesto": "PUESTO 1 - PAIPA",
+      "mesas": 7,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "JUAN RODRIGUEZ GARCIA",
+              "votos": 5
+            },
+            {
+              "nombre": "PAOLA SANCHEZ CASTRO",
+              "votos": 156
+            },
+            {
+              "nombre": "PAOLA GARCIA MORENO",
+              "votos": 161
+            },
+            {
+              "nombre": "LAURA RAMIREZ TORRES",
+              "votos": 292
+            },
+            {
+              "nombre": "LAURA SANCHEZ CASTRO",
+              "votos": 82
+            }
+          ],
+          "votos_partido": 696
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "LAURA CASTRO RAMIREZ",
+              "votos": 79
+            },
+            {
+              "nombre": "ANDRES GARCIA GARCIA",
+              "votos": 147
+            },
+            {
+              "nombre": "PAOLA RODRIGUEZ CASTRO",
+              "votos": 326
+            },
+            {
+              "nombre": "JORGE PEREZ RODRIGUEZ",
+              "votos": 223
+            }
+          ],
+          "votos_partido": 775
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "JORGE LOPEZ CASTRO",
+              "votos": 58
+            },
+            {
+              "nombre": "SOFIA GARCIA CASTRO",
+              "votos": 7
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 868
+            }
+          ],
+          "votos_partido": 933
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA PEREZ MARTINEZ",
+              "votos": 192
+            },
+            {
+              "nombre": "CAMILA GOMEZ CASTRO",
+              "votos": 0
+            },
+            {
+              "nombre": "LUIS GARCIA GOMEZ",
+              "votos": 325
+            },
+            {
+              "nombre": "MARIA TORRES GARCIA",
+              "votos": 375
+            }
+          ],
+          "votos_partido": 892
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "SOFIA RODRIGUEZ GOMEZ",
+              "votos": 1
+            },
+            {
+              "nombre": "CAMILA RAMIREZ RAMIREZ",
+              "votos": 644
+            },
+            {
+              "nombre": "DAVID PEREZ MARTINEZ",
+              "votos": 249
+            }
+          ],
+          "votos_partido": 894
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "ANDRES RAMIREZ RODRIGUEZ",
+              "votos": 718
+            },
+            {
+              "nombre": "CARLOS SANCHEZ RAMIREZ",
+              "votos": 284
+            }
+          ],
+          "votos_partido": 1002
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "MARIA MARTINEZ MARTINEZ",
+              "votos": 202
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 705
+            }
+          ],
+          "votos_partido": 907
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA DIAZ DIAZ",
+              "votos": 113
+            },
+            {
+              "nombre": "PAOLA TORRES SANCHEZ",
+              "votos": 86
+            }
+          ],
+          "votos_partido": 199
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "DAVID GARCIA DIAZ",
+              "votos": 127
+            },
+            {
+              "nombre": "VALENTINA GARCIA DIAZ",
+              "votos": 209
+            },
+            {
+              "nombre": "MARIA DIAZ CASTRO",
+              "votos": 30
+            },
+            {
+              "nombre": "ANA LOPEZ MORENO",
+              "votos": 137
+            },
+            {
+              "nombre": "JORGE GARCIA MORENO",
+              "votos": 23
+            }
+          ],
+          "votos_partido": 526
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "DIANA LOPEZ MARTINEZ",
+              "votos": 441
+            },
+            {
+              "nombre": "CARLOS MARTINEZ GOMEZ",
+              "votos": 202
+            }
+          ],
+          "votos_partido": 643
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "DAVID CASTRO DIAZ",
+              "votos": 3
+            },
+            {
+              "nombre": "SOFIA GARCIA GOMEZ",
+              "votos": 32
+            },
+            {
+              "nombre": "PAOLA GARCIA CASTRO",
+              "votos": 6
+            },
+            {
+              "nombre": "CAMILA CASTRO RAMIREZ",
+              "votos": 300
+            },
+            {
+              "nombre": "CARLOS MORENO LOPEZ",
+              "votos": 377
+            }
+          ],
+          "votos_partido": 718
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "JORGE SANCHEZ RODRIGUEZ",
+              "votos": 651
+            },
+            {
+              "nombre": "PAOLA MORENO MARTINEZ",
+              "votos": 288
+            },
+            {
+              "nombre": "ANDRES MARTINEZ RODRIGUEZ",
+              "votos": 196
+            },
+            {
+              "nombre": "MARIA MARTINEZ GARCIA",
+              "votos": 113
+            }
+          ],
+          "votos_partido": 1248
+        }
+      ]
+    },
+    {
+      "codpuesto": "15516002",
+      "nombre_puesto": "PUESTO 2 - PAIPA",
+      "mesas": 6,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "JUAN RODRIGUEZ GARCIA",
+              "votos": 53
+            },
+            {
+              "nombre": "PAOLA SANCHEZ CASTRO",
+              "votos": 232
+            },
+            {
+              "nombre": "PAOLA GARCIA MORENO",
+              "votos": 158
+            },
+            {
+              "nombre": "LAURA RAMIREZ TORRES",
+              "votos": 234
+            },
+            {
+              "nombre": "LAURA SANCHEZ CASTRO",
+              "votos": 16
+            }
+          ],
+          "votos_partido": 693
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "LAURA CASTRO RAMIREZ",
+              "votos": 11
+            },
+            {
+              "nombre": "ANDRES GARCIA GARCIA",
+              "votos": 54
+            },
+            {
+              "nombre": "PAOLA RODRIGUEZ CASTRO",
+              "votos": 512
+            },
+            {
+              "nombre": "JORGE PEREZ RODRIGUEZ",
+              "votos": 155
+            }
+          ],
+          "votos_partido": 732
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "JORGE LOPEZ CASTRO",
+              "votos": 64
+            },
+            {
+              "nombre": "SOFIA GARCIA CASTRO",
+              "votos": 25
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 3
+            }
+          ],
+          "votos_partido": 92
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA PEREZ MARTINEZ",
+              "votos": 78
+            },
+            {
+              "nombre": "CAMILA GOMEZ CASTRO",
+              "votos": 0
+            },
+            {
+              "nombre": "LUIS GARCIA GOMEZ",
+              "votos": 134
+            },
+            {
+              "nombre": "MARIA TORRES GARCIA",
+              "votos": 40
+            }
+          ],
+          "votos_partido": 252
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "SOFIA RODRIGUEZ GOMEZ",
+              "votos": 46
+            },
+            {
+              "nombre": "CAMILA RAMIREZ RAMIREZ",
+              "votos": 2
+            },
+            {
+              "nombre": "DAVID PEREZ MARTINEZ",
+              "votos": 149
+            }
+          ],
+          "votos_partido": 197
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "ANDRES RAMIREZ RODRIGUEZ",
+              "votos": 612
+            },
+            {
+              "nombre": "CARLOS SANCHEZ RAMIREZ",
+              "votos": 59
+            }
+          ],
+          "votos_partido": 671
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "MARIA MARTINEZ MARTINEZ",
+              "votos": 89
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 836
+            }
+          ],
+          "votos_partido": 925
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA DIAZ DIAZ",
+              "votos": 104
+            },
+            {
+              "nombre": "PAOLA TORRES SANCHEZ",
+              "votos": 534
+            }
+          ],
+          "votos_partido": 638
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "DAVID GARCIA DIAZ",
+              "votos": 19
+            },
+            {
+              "nombre": "VALENTINA GARCIA DIAZ",
+              "votos": 195
+            },
+            {
+              "nombre": "MARIA DIAZ CASTRO",
+              "votos": 302
+            },
+            {
+              "nombre": "ANA LOPEZ MORENO",
+              "votos": 10
+            },
+            {
+              "nombre": "JORGE GARCIA MORENO",
+              "votos": 2
+            }
+          ],
+          "votos_partido": 528
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "DIANA LOPEZ MARTINEZ",
+              "votos": 790
+            },
+            {
+              "nombre": "CARLOS MARTINEZ GOMEZ",
+              "votos": 218
+            }
+          ],
+          "votos_partido": 1008
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "DAVID CASTRO DIAZ",
+              "votos": 183
+            },
+            {
+              "nombre": "SOFIA GARCIA GOMEZ",
+              "votos": 478
+            },
+            {
+              "nombre": "PAOLA GARCIA CASTRO",
+              "votos": 56
+            },
+            {
+              "nombre": "CAMILA CASTRO RAMIREZ",
+              "votos": 63
+            },
+            {
+              "nombre": "CARLOS MORENO LOPEZ",
+              "votos": 244
+            }
+          ],
+          "votos_partido": 1024
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "JORGE SANCHEZ RODRIGUEZ",
+              "votos": 310
+            },
+            {
+              "nombre": "PAOLA MORENO MARTINEZ",
+              "votos": 28
+            },
+            {
+              "nombre": "ANDRES MARTINEZ RODRIGUEZ",
+              "votos": 376
+            },
+            {
+              "nombre": "MARIA MARTINEZ GARCIA",
+              "votos": 154
+            }
+          ],
+          "votos_partido": 868
+        }
+      ]
+    },
+    {
+      "codpuesto": "15516003",
+      "nombre_puesto": "PUESTO 3 - PAIPA",
+      "mesas": 9,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "JUAN RODRIGUEZ GARCIA",
+              "votos": 289
+            },
+            {
+              "nombre": "PAOLA SANCHEZ CASTRO",
+              "votos": 251
+            },
+            {
+              "nombre": "PAOLA GARCIA MORENO",
+              "votos": 319
+            },
+            {
+              "nombre": "LAURA RAMIREZ TORRES",
+              "votos": 18
+            },
+            {
+              "nombre": "LAURA SANCHEZ CASTRO",
+              "votos": 48
+            }
+          ],
+          "votos_partido": 925
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "LAURA CASTRO RAMIREZ",
+              "votos": 192
+            },
+            {
+              "nombre": "ANDRES GARCIA GARCIA",
+              "votos": 115
+            },
+            {
+              "nombre": "PAOLA RODRIGUEZ CASTRO",
+              "votos": 255
+            },
+            {
+              "nombre": "JORGE PEREZ RODRIGUEZ",
+              "votos": 954
+            }
+          ],
+          "votos_partido": 1516
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "JORGE LOPEZ CASTRO",
+              "votos": 93
+            },
+            {
+              "nombre": "SOFIA GARCIA CASTRO",
+              "votos": 276
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 422
+            }
+          ],
+          "votos_partido": 791
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA PEREZ MARTINEZ",
+              "votos": 106
+            },
+            {
+              "nombre": "CAMILA GOMEZ CASTRO",
+              "votos": 0
+            },
+            {
+              "nombre": "LUIS GARCIA GOMEZ",
+              "votos": 109
+            },
+            {
+              "nombre": "MARIA TORRES GARCIA",
+              "votos": 151
+            }
+          ],
+          "votos_partido": 366
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "SOFIA RODRIGUEZ GOMEZ",
+              "votos": 168
+            },
+            {
+              "nombre": "CAMILA RAMIREZ RAMIREZ",
+              "votos": 42
+            },
+            {
+              "nombre": "DAVID PEREZ MARTINEZ",
+              "votos": 61
+            }
+          ],
+          "votos_partido": 271
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "ANDRES RAMIREZ RODRIGUEZ",
+              "votos": 10
+            },
+            {
+              "nombre": "CARLOS SANCHEZ RAMIREZ",
+              "votos": 919
+            }
+          ],
+          "votos_partido": 929
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "MARIA MARTINEZ MARTINEZ",
+              "votos": 1288
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 7
+            }
+          ],
+          "votos_partido": 1295
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA DIAZ DIAZ",
+              "votos": 1363
+            },
+            {
+              "nombre": "PAOLA TORRES SANCHEZ",
+              "votos": 166
+            }
+          ],
+          "votos_partido": 1529
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "DAVID GARCIA DIAZ",
+              "votos": 213
+            },
+            {
+              "nombre": "VALENTINA GARCIA DIAZ",
+              "votos": 8
+            },
+            {
+              "nombre": "MARIA DIAZ CASTRO",
+              "votos": 145
+            },
+            {
+              "nombre": "ANA LOPEZ MORENO",
+              "votos": 613
+            },
+            {
+              "nombre": "JORGE GARCIA MORENO",
+              "votos": 384
+            }
+          ],
+          "votos_partido": 1363
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "DIANA LOPEZ MARTINEZ",
+              "votos": 223
+            },
+            {
+              "nombre": "CARLOS MARTINEZ GOMEZ",
+              "votos": 449
+            }
+          ],
+          "votos_partido": 672
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "DAVID CASTRO DIAZ",
+              "votos": 373
+            },
+            {
+              "nombre": "SOFIA GARCIA GOMEZ",
+              "votos": 0
+            },
+            {
+              "nombre": "PAOLA GARCIA CASTRO",
+              "votos": 2
+            },
+            {
+              "nombre": "CAMILA CASTRO RAMIREZ",
+              "votos": 195
+            },
+            {
+              "nombre": "CARLOS MORENO LOPEZ",
+              "votos": 416
+            }
+          ],
+          "votos_partido": 986
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "JORGE SANCHEZ RODRIGUEZ",
+              "votos": 244
+            },
+            {
+              "nombre": "PAOLA MORENO MARTINEZ",
+              "votos": 82
+            },
+            {
+              "nombre": "ANDRES MARTINEZ RODRIGUEZ",
+              "votos": 4
+            },
+            {
+              "nombre": "MARIA MARTINEZ GARCIA",
+              "votos": 175
+            }
+          ],
+          "votos_partido": 505
+        }
+      ]
+    },
+    {
+      "codpuesto": "15516004",
+      "nombre_puesto": "PUESTO 4 - PAIPA",
+      "mesas": 4,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "JUAN RODRIGUEZ GARCIA",
+              "votos": 49
+            },
+            {
+              "nombre": "PAOLA SANCHEZ CASTRO",
+              "votos": 159
+            },
+            {
+              "nombre": "PAOLA GARCIA MORENO",
+              "votos": 1
+            },
+            {
+              "nombre": "LAURA RAMIREZ TORRES",
+              "votos": 187
+            },
+            {
+              "nombre": "LAURA SANCHEZ CASTRO",
+              "votos": 5
+            }
+          ],
+          "votos_partido": 401
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "LAURA CASTRO RAMIREZ",
+              "votos": 61
+            },
+            {
+              "nombre": "ANDRES GARCIA GARCIA",
+              "votos": 9
+            },
+            {
+              "nombre": "PAOLA RODRIGUEZ CASTRO",
+              "votos": 122
+            },
+            {
+              "nombre": "JORGE PEREZ RODRIGUEZ",
+              "votos": 139
+            }
+          ],
+          "votos_partido": 331
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "JORGE LOPEZ CASTRO",
+              "votos": 51
+            },
+            {
+              "nombre": "SOFIA GARCIA CASTRO",
+              "votos": 48
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 588
+            }
+          ],
+          "votos_partido": 687
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA PEREZ MARTINEZ",
+              "votos": 104
+            },
+            {
+              "nombre": "CAMILA GOMEZ CASTRO",
+              "votos": 15
+            },
+            {
+              "nombre": "LUIS GARCIA GOMEZ",
+              "votos": 226
+            },
+            {
+              "nombre": "MARIA TORRES GARCIA",
+              "votos": 5
+            }
+          ],
+          "votos_partido": 350
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "SOFIA RODRIGUEZ GOMEZ",
+              "votos": 159
+            },
+            {
+              "nombre": "CAMILA RAMIREZ RAMIREZ",
+              "votos": 82
+            },
+            {
+              "nombre": "DAVID PEREZ MARTINEZ",
+              "votos": 174
+            }
+          ],
+          "votos_partido": 415
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "ANDRES RAMIREZ RODRIGUEZ",
+              "votos": 504
+            },
+            {
+              "nombre": "CARLOS SANCHEZ RAMIREZ",
+              "votos": 193
+            }
+          ],
+          "votos_partido": 697
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "MARIA MARTINEZ MARTINEZ",
+              "votos": 55
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 431
+            }
+          ],
+          "votos_partido": 486
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA DIAZ DIAZ",
+              "votos": 294
+            },
+            {
+              "nombre": "PAOLA TORRES SANCHEZ",
+              "votos": 27
+            }
+          ],
+          "votos_partido": 321
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "DAVID GARCIA DIAZ",
+              "votos": 73
+            },
+            {
+              "nombre": "VALENTINA GARCIA DIAZ",
+              "votos": 32
+            },
+            {
+              "nombre": "MARIA DIAZ CASTRO",
+              "votos": 14
+            },
+            {
+              "nombre": "ANA LOPEZ MORENO",
+              "votos": 154
+            },
+            {
+              "nombre": "JORGE GARCIA MORENO",
+              "votos": 112
+            }
+          ],
+          "votos_partido": 385
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "DIANA LOPEZ MARTINEZ",
+              "votos": 18
+            },
+            {
+              "nombre": "CARLOS MARTINEZ GOMEZ",
+              "votos": 108
+            }
+          ],
+          "votos_partido": 126
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "DAVID CASTRO DIAZ",
+              "votos": 31
+            },
+            {
+              "nombre": "SOFIA GARCIA GOMEZ",
+              "votos": 175
+            },
+            {
+              "nombre": "PAOLA GARCIA CASTRO",
+              "votos": 0
+            },
+            {
+              "nombre": "CAMILA CASTRO RAMIREZ",
+              "votos": 246
+            },
+            {
+              "nombre": "CARLOS MORENO LOPEZ",
+              "votos": 56
+            }
+          ],
+          "votos_partido": 508
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "JORGE SANCHEZ RODRIGUEZ",
+              "votos": 10
+            },
+            {
+              "nombre": "PAOLA MORENO MARTINEZ",
+              "votos": 16
+            },
+            {
+              "nombre": "ANDRES MARTINEZ RODRIGUEZ",
+              "votos": 18
+            },
+            {
+              "nombre": "MARIA MARTINEZ GARCIA",
+              "votos": 0
+            }
+          ],
+          "votos_partido": 44
+        }
+      ]
+    },
+    {
+      "codpuesto": "15516005",
+      "nombre_puesto": "PUESTO 5 - PAIPA",
+      "mesas": 10,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "JUAN RODRIGUEZ GARCIA",
+              "votos": 298
+            },
+            {
+              "nombre": "PAOLA SANCHEZ CASTRO",
+              "votos": 26
+            },
+            {
+              "nombre": "PAOLA GARCIA MORENO",
+              "votos": 319
+            },
+            {
+              "nombre": "LAURA RAMIREZ TORRES",
+              "votos": 23
+            },
+            {
+              "nombre": "LAURA SANCHEZ CASTRO",
+              "votos": 17
+            }
+          ],
+          "votos_partido": 683
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "LAURA CASTRO RAMIREZ",
+              "votos": 132
+            },
+            {
+              "nombre": "ANDRES GARCIA GARCIA",
+              "votos": 150
+            },
+            {
+              "nombre": "PAOLA RODRIGUEZ CASTRO",
+              "votos": 125
+            },
+            {
+              "nombre": "JORGE PEREZ RODRIGUEZ",
+              "votos": 203
+            }
+          ],
+          "votos_partido": 610
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "JORGE LOPEZ CASTRO",
+              "votos": 32
+            },
+            {
+              "nombre": "SOFIA GARCIA CASTRO",
+              "votos": 1348
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 5
+            }
+          ],
+          "votos_partido": 1385
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA PEREZ MARTINEZ",
+              "votos": 309
+            },
+            {
+              "nombre": "CAMILA GOMEZ CASTRO",
+              "votos": 535
+            },
+            {
+              "nombre": "LUIS GARCIA GOMEZ",
+              "votos": 855
+            },
+            {
+              "nombre": "MARIA TORRES GARCIA",
+              "votos": 12
+            }
+          ],
+          "votos_partido": 1711
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "SOFIA RODRIGUEZ GOMEZ",
+              "votos": 235
+            },
+            {
+              "nombre": "CAMILA RAMIREZ RAMIREZ",
+              "votos": 380
+            },
+            {
+              "nombre": "DAVID PEREZ MARTINEZ",
+              "votos": 88
+            }
+          ],
+          "votos_partido": 703
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "ANDRES RAMIREZ RODRIGUEZ",
+              "votos": 402
+            },
+            {
+              "nombre": "CARLOS SANCHEZ RAMIREZ",
+              "votos": 1307
+            }
+          ],
+          "votos_partido": 1709
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "MARIA MARTINEZ MARTINEZ",
+              "votos": 915
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 270
+            }
+          ],
+          "votos_partido": 1185
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA DIAZ DIAZ",
+              "votos": 38
+            },
+            {
+              "nombre": "PAOLA TORRES SANCHEZ",
+              "votos": 397
+            }
+          ],
+          "votos_partido": 435
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "DAVID GARCIA DIAZ",
+              "votos": 383
+            },
+            {
+              "nombre": "VALENTINA GARCIA DIAZ",
+              "votos": 35
+            },
+            {
+              "nombre": "MARIA DIAZ CASTRO",
+              "votos": 310
+            },
+            {
+              "nombre": "ANA LOPEZ MORENO",
+              "votos": 265
+            },
+            {
+              "nombre": "JORGE GARCIA MORENO",
+              "votos": 89
+            }
+          ],
+          "votos_partido": 1082
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "DIANA LOPEZ MARTINEZ",
+              "votos": 5
+            },
+            {
+              "nombre": "CARLOS MARTINEZ GOMEZ",
+              "votos": 248
+            }
+          ],
+          "votos_partido": 253
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "DAVID CASTRO DIAZ",
+              "votos": 243
+            },
+            {
+              "nombre": "SOFIA GARCIA GOMEZ",
+              "votos": 445
+            },
+            {
+              "nombre": "PAOLA GARCIA CASTRO",
+              "votos": 433
+            },
+            {
+              "nombre": "CAMILA CASTRO RAMIREZ",
+              "votos": 300
+            },
+            {
+              "nombre": "CARLOS MORENO LOPEZ",
+              "votos": 62
+            }
+          ],
+          "votos_partido": 1483
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "JORGE SANCHEZ RODRIGUEZ",
+              "votos": 709
+            },
+            {
+              "nombre": "PAOLA MORENO MARTINEZ",
+              "votos": 318
+            },
+            {
+              "nombre": "ANDRES MARTINEZ RODRIGUEZ",
+              "votos": 69
+            },
+            {
+              "nombre": "MARIA MARTINEZ GARCIA",
+              "votos": 619
+            }
+          ],
+          "votos_partido": 1715
+        }
+      ]
+    },
+    {
+      "codpuesto": "15516006",
+      "nombre_puesto": "PUESTO 6 - PAIPA",
+      "mesas": 7,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "JUAN RODRIGUEZ GARCIA",
+              "votos": 96
+            },
+            {
+              "nombre": "PAOLA SANCHEZ CASTRO",
+              "votos": 270
+            },
+            {
+              "nombre": "PAOLA GARCIA MORENO",
+              "votos": 91
+            },
+            {
+              "nombre": "LAURA RAMIREZ TORRES",
+              "votos": 301
+            },
+            {
+              "nombre": "LAURA SANCHEZ CASTRO",
+              "votos": 147
+            }
+          ],
+          "votos_partido": 905
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "LAURA CASTRO RAMIREZ",
+              "votos": 377
+            },
+            {
+              "nombre": "ANDRES GARCIA GARCIA",
+              "votos": 152
+            },
+            {
+              "nombre": "PAOLA RODRIGUEZ CASTRO",
+              "votos": 404
+            },
+            {
+              "nombre": "JORGE PEREZ RODRIGUEZ",
+              "votos": 23
+            }
+          ],
+          "votos_partido": 956
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "JORGE LOPEZ CASTRO",
+              "votos": 57
+            },
+            {
+              "nombre": "SOFIA GARCIA CASTRO",
+              "votos": 30
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 70
+            }
+          ],
+          "votos_partido": 157
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA PEREZ MARTINEZ",
+              "votos": 141
+            },
+            {
+              "nombre": "CAMILA GOMEZ CASTRO",
+              "votos": 16
+            },
+            {
+              "nombre": "LUIS GARCIA GOMEZ",
+              "votos": 761
+            },
+            {
+              "nombre": "MARIA TORRES GARCIA",
+              "votos": 78
+            }
+          ],
+          "votos_partido": 996
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "SOFIA RODRIGUEZ GOMEZ",
+              "votos": 29
+            },
+            {
+              "nombre": "CAMILA RAMIREZ RAMIREZ",
+              "votos": 119
+            },
+            {
+              "nombre": "DAVID PEREZ MARTINEZ",
+              "votos": 626
+            }
+          ],
+          "votos_partido": 774
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "ANDRES RAMIREZ RODRIGUEZ",
+              "votos": 196
+            },
+            {
+              "nombre": "CARLOS SANCHEZ RAMIREZ",
+              "votos": 428
+            }
+          ],
+          "votos_partido": 624
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "MARIA MARTINEZ MARTINEZ",
+              "votos": 708
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 425
+            }
+          ],
+          "votos_partido": 1133
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA DIAZ DIAZ",
+              "votos": 873
+            },
+            {
+              "nombre": "PAOLA TORRES SANCHEZ",
+              "votos": 37
+            }
+          ],
+          "votos_partido": 910
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "DAVID GARCIA DIAZ",
+              "votos": 115
+            },
+            {
+              "nombre": "VALENTINA GARCIA DIAZ",
+              "votos": 187
+            },
+            {
+              "nombre": "MARIA DIAZ CASTRO",
+              "votos": 102
+            },
+            {
+              "nombre": "ANA LOPEZ MORENO",
+              "votos": 237
+            },
+            {
+              "nombre": "JORGE GARCIA MORENO",
+              "votos": 21
+            }
+          ],
+          "votos_partido": 662
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "DIANA LOPEZ MARTINEZ",
+              "votos": 435
+            },
+            {
+              "nombre": "CARLOS MARTINEZ GOMEZ",
+              "votos": 622
+            }
+          ],
+          "votos_partido": 1057
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "DAVID CASTRO DIAZ",
+              "votos": 120
+            },
+            {
+              "nombre": "SOFIA GARCIA GOMEZ",
+              "votos": 1
+            },
+            {
+              "nombre": "PAOLA GARCIA CASTRO",
+              "votos": 77
+            },
+            {
+              "nombre": "CAMILA CASTRO RAMIREZ",
+              "votos": 48
+            },
+            {
+              "nombre": "CARLOS MORENO LOPEZ",
+              "votos": 157
+            }
+          ],
+          "votos_partido": 403
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "JORGE SANCHEZ RODRIGUEZ",
+              "votos": 1
+            },
+            {
+              "nombre": "PAOLA MORENO MARTINEZ",
+              "votos": 23
+            },
+            {
+              "nombre": "ANDRES MARTINEZ RODRIGUEZ",
+              "votos": 284
+            },
+            {
+              "nombre": "MARIA MARTINEZ GARCIA",
+              "votos": 273
+            }
+          ],
+          "votos_partido": 581
+        }
+      ]
+    },
+    {
+      "codpuesto": "15516007",
+      "nombre_puesto": "PUESTO 7 - PAIPA",
+      "mesas": 10,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "JUAN RODRIGUEZ GARCIA",
+              "votos": 68
+            },
+            {
+              "nombre": "PAOLA SANCHEZ CASTRO",
+              "votos": 64
+            },
+            {
+              "nombre": "PAOLA GARCIA MORENO",
+              "votos": 55
+            },
+            {
+              "nombre": "LAURA RAMIREZ TORRES",
+              "votos": 0
+            },
+            {
+              "nombre": "LAURA SANCHEZ CASTRO",
+              "votos": 96
+            }
+          ],
+          "votos_partido": 283
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "LAURA CASTRO RAMIREZ",
+              "votos": 251
+            },
+            {
+              "nombre": "ANDRES GARCIA GARCIA",
+              "votos": 159
+            },
+            {
+              "nombre": "PAOLA RODRIGUEZ CASTRO",
+              "votos": 10
+            },
+            {
+              "nombre": "JORGE PEREZ RODRIGUEZ",
+              "votos": 176
+            }
+          ],
+          "votos_partido": 596
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "JORGE LOPEZ CASTRO",
+              "votos": 62
+            },
+            {
+              "nombre": "SOFIA GARCIA CASTRO",
+              "votos": 68
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 1103
+            }
+          ],
+          "votos_partido": 1233
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA PEREZ MARTINEZ",
+              "votos": 279
+            },
+            {
+              "nombre": "CAMILA GOMEZ CASTRO",
+              "votos": 290
+            },
+            {
+              "nombre": "LUIS GARCIA GOMEZ",
+              "votos": 165
+            },
+            {
+              "nombre": "MARIA TORRES GARCIA",
+              "votos": 35
+            }
+          ],
+          "votos_partido": 769
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "SOFIA RODRIGUEZ GOMEZ",
+              "votos": 202
+            },
+            {
+              "nombre": "CAMILA RAMIREZ RAMIREZ",
+              "votos": 60
+            },
+            {
+              "nombre": "DAVID PEREZ MARTINEZ",
+              "votos": 132
+            }
+          ],
+          "votos_partido": 394
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "ANDRES RAMIREZ RODRIGUEZ",
+              "votos": 323
+            },
+            {
+              "nombre": "CARLOS SANCHEZ RAMIREZ",
+              "votos": 0
+            }
+          ],
+          "votos_partido": 323
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "MARIA MARTINEZ MARTINEZ",
+              "votos": 22
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 107
+            }
+          ],
+          "votos_partido": 129
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA DIAZ DIAZ",
+              "votos": 1011
+            },
+            {
+              "nombre": "PAOLA TORRES SANCHEZ",
+              "votos": 292
+            }
+          ],
+          "votos_partido": 1303
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "DAVID GARCIA DIAZ",
+              "votos": 8
+            },
+            {
+              "nombre": "VALENTINA GARCIA DIAZ",
+              "votos": 88
+            },
+            {
+              "nombre": "MARIA DIAZ CASTRO",
+              "votos": 6
+            },
+            {
+              "nombre": "ANA LOPEZ MORENO",
+              "votos": 2
+            },
+            {
+              "nombre": "JORGE GARCIA MORENO",
+              "votos": 100
+            }
+          ],
+          "votos_partido": 204
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "DIANA LOPEZ MARTINEZ",
+              "votos": 803
+            },
+            {
+              "nombre": "CARLOS MARTINEZ GOMEZ",
+              "votos": 36
+            }
+          ],
+          "votos_partido": 839
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "DAVID CASTRO DIAZ",
+              "votos": 25
+            },
+            {
+              "nombre": "SOFIA GARCIA GOMEZ",
+              "votos": 192
+            },
+            {
+              "nombre": "PAOLA GARCIA CASTRO",
+              "votos": 269
+            },
+            {
+              "nombre": "CAMILA CASTRO RAMIREZ",
+              "votos": 421
+            },
+            {
+              "nombre": "CARLOS MORENO LOPEZ",
+              "votos": 221
+            }
+          ],
+          "votos_partido": 1128
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "JORGE SANCHEZ RODRIGUEZ",
+              "votos": 109
+            },
+            {
+              "nombre": "PAOLA MORENO MARTINEZ",
+              "votos": 484
+            },
+            {
+              "nombre": "ANDRES MARTINEZ RODRIGUEZ",
+              "votos": 1
+            },
+            {
+              "nombre": "MARIA MARTINEZ GARCIA",
+              "votos": 119
+            }
+          ],
+          "votos_partido": 713
+        }
+      ]
+    },
+    {
+      "codpuesto": "15516008",
+      "nombre_puesto": "PUESTO 8 - PAIPA",
+      "mesas": 9,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "JUAN RODRIGUEZ GARCIA",
+              "votos": 265
+            },
+            {
+              "nombre": "PAOLA SANCHEZ CASTRO",
+              "votos": 135
+            },
+            {
+              "nombre": "PAOLA GARCIA MORENO",
+              "votos": 466
+            },
+            {
+              "nombre": "LAURA RAMIREZ TORRES",
+              "votos": 3
+            },
+            {
+              "nombre": "LAURA SANCHEZ CASTRO",
+              "votos": 3
+            }
+          ],
+          "votos_partido": 872
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "LAURA CASTRO RAMIREZ",
+              "votos": 34
+            },
+            {
+              "nombre": "ANDRES GARCIA GARCIA",
+              "votos": 24
+            },
+            {
+              "nombre": "PAOLA RODRIGUEZ CASTRO",
+              "votos": 611
+            },
+            {
+              "nombre": "JORGE PEREZ RODRIGUEZ",
+              "votos": 537
+            }
+          ],
+          "votos_partido": 1206
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "JORGE LOPEZ CASTRO",
+              "votos": 107
+            },
+            {
+              "nombre": "SOFIA GARCIA CASTRO",
+              "votos": 1007
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 286
+            }
+          ],
+          "votos_partido": 1400
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA PEREZ MARTINEZ",
+              "votos": 218
+            },
+            {
+              "nombre": "CAMILA GOMEZ CASTRO",
+              "votos": 158
+            },
+            {
+              "nombre": "LUIS GARCIA GOMEZ",
+              "votos": 537
+            },
+            {
+              "nombre": "MARIA TORRES GARCIA",
+              "votos": 11
+            }
+          ],
+          "votos_partido": 924
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "SOFIA RODRIGUEZ GOMEZ",
+              "votos": 357
+            },
+            {
+              "nombre": "CAMILA RAMIREZ RAMIREZ",
+              "votos": 499
+            },
+            {
+              "nombre": "DAVID PEREZ MARTINEZ",
+              "votos": 438
+            }
+          ],
+          "votos_partido": 1294
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "ANDRES RAMIREZ RODRIGUEZ",
+              "votos": 92
+            },
+            {
+              "nombre": "CARLOS SANCHEZ RAMIREZ",
+              "votos": 393
+            }
+          ],
+          "votos_partido": 485
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "MARIA MARTINEZ MARTINEZ",
+              "votos": 304
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 546
+            }
+          ],
+          "votos_partido": 850
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA DIAZ DIAZ",
+              "votos": 722
+            },
+            {
+              "nombre": "PAOLA TORRES SANCHEZ",
+              "votos": 132
+            }
+          ],
+          "votos_partido": 854
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "DAVID GARCIA DIAZ",
+              "votos": 201
+            },
+            {
+              "nombre": "VALENTINA GARCIA DIAZ",
+              "votos": 63
+            },
+            {
+              "nombre": "MARIA DIAZ CASTRO",
+              "votos": 10
+            },
+            {
+              "nombre": "ANA LOPEZ MORENO",
+              "votos": 388
+            },
+            {
+              "nombre": "JORGE GARCIA MORENO",
+              "votos": 2
+            }
+          ],
+          "votos_partido": 664
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "DIANA LOPEZ MARTINEZ",
+              "votos": 118
+            },
+            {
+              "nombre": "CARLOS MARTINEZ GOMEZ",
+              "votos": 127
+            }
+          ],
+          "votos_partido": 245
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "DAVID CASTRO DIAZ",
+              "votos": 144
+            },
+            {
+              "nombre": "SOFIA GARCIA GOMEZ",
+              "votos": 17
+            },
+            {
+              "nombre": "PAOLA GARCIA CASTRO",
+              "votos": 3
+            },
+            {
+              "nombre": "CAMILA CASTRO RAMIREZ",
+              "votos": 954
+            },
+            {
+              "nombre": "CARLOS MORENO LOPEZ",
+              "votos": 329
+            }
+          ],
+          "votos_partido": 1447
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "JORGE SANCHEZ RODRIGUEZ",
+              "votos": 17
+            },
+            {
+              "nombre": "PAOLA MORENO MARTINEZ",
+              "votos": 144
+            },
+            {
+              "nombre": "ANDRES MARTINEZ RODRIGUEZ",
+              "votos": 511
+            },
+            {
+              "nombre": "MARIA MARTINEZ GARCIA",
+              "votos": 650
+            }
+          ],
+          "votos_partido": 1322
+        }
+      ]
+    },
+    {
+      "codpuesto": "15516009",
+      "nombre_puesto": "PUESTO 9 - PAIPA",
+      "mesas": 3,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "JUAN RODRIGUEZ GARCIA",
+              "votos": 57
+            },
+            {
+              "nombre": "PAOLA SANCHEZ CASTRO",
+              "votos": 19
+            },
+            {
+              "nombre": "PAOLA GARCIA MORENO",
+              "votos": 53
+            },
+            {
+              "nombre": "LAURA RAMIREZ TORRES",
+              "votos": 7
+            },
+            {
+              "nombre": "LAURA SANCHEZ CASTRO",
+              "votos": 68
+            }
+          ],
+          "votos_partido": 204
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "LAURA CASTRO RAMIREZ",
+              "votos": 103
+            },
+            {
+              "nombre": "ANDRES GARCIA GARCIA",
+              "votos": 17
+            },
+            {
+              "nombre": "PAOLA RODRIGUEZ CASTRO",
+              "votos": 44
+            },
+            {
+              "nombre": "JORGE PEREZ RODRIGUEZ",
+              "votos": 1
+            }
+          ],
+          "votos_partido": 165
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "JORGE LOPEZ CASTRO",
+              "votos": 39
+            },
+            {
+              "nombre": "SOFIA GARCIA CASTRO",
+              "votos": 77
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 84
+            }
+          ],
+          "votos_partido": 200
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA PEREZ MARTINEZ",
+              "votos": 229
+            },
+            {
+              "nombre": "CAMILA GOMEZ CASTRO",
+              "votos": 129
+            },
+            {
+              "nombre": "LUIS GARCIA GOMEZ",
+              "votos": 141
+            },
+            {
+              "nombre": "MARIA TORRES GARCIA",
+              "votos": 0
+            }
+          ],
+          "votos_partido": 499
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "SOFIA RODRIGUEZ GOMEZ",
+              "votos": 376
+            },
+            {
+              "nombre": "CAMILA RAMIREZ RAMIREZ",
+              "votos": 39
+            },
+            {
+              "nombre": "DAVID PEREZ MARTINEZ",
+              "votos": 17
+            }
+          ],
+          "votos_partido": 432
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "ANDRES RAMIREZ RODRIGUEZ",
+              "votos": 187
+            },
+            {
+              "nombre": "CARLOS SANCHEZ RAMIREZ",
+              "votos": 273
+            }
+          ],
+          "votos_partido": 460
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "MARIA MARTINEZ MARTINEZ",
+              "votos": 0
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 244
+            }
+          ],
+          "votos_partido": 244
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA DIAZ DIAZ",
+              "votos": 372
+            },
+            {
+              "nombre": "PAOLA TORRES SANCHEZ",
+              "votos": 4
+            }
+          ],
+          "votos_partido": 376
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "DAVID GARCIA DIAZ",
+              "votos": 164
+            },
+            {
+              "nombre": "VALENTINA GARCIA DIAZ",
+              "votos": 0
+            },
+            {
+              "nombre": "MARIA DIAZ CASTRO",
+              "votos": 228
+            },
+            {
+              "nombre": "ANA LOPEZ MORENO",
+              "votos": 18
+            },
+            {
+              "nombre": "JORGE GARCIA MORENO",
+              "votos": 72
+            }
+          ],
+          "votos_partido": 482
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "DIANA LOPEZ MARTINEZ",
+              "votos": 48
+            },
+            {
+              "nombre": "CARLOS MARTINEZ GOMEZ",
+              "votos": 190
+            }
+          ],
+          "votos_partido": 238
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "DAVID CASTRO DIAZ",
+              "votos": 143
+            },
+            {
+              "nombre": "SOFIA GARCIA GOMEZ",
+              "votos": 76
+            },
+            {
+              "nombre": "PAOLA GARCIA CASTRO",
+              "votos": 1
+            },
+            {
+              "nombre": "CAMILA CASTRO RAMIREZ",
+              "votos": 0
+            },
+            {
+              "nombre": "CARLOS MORENO LOPEZ",
+              "votos": 5
+            }
+          ],
+          "votos_partido": 225
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "JORGE SANCHEZ RODRIGUEZ",
+              "votos": 2
+            },
+            {
+              "nombre": "PAOLA MORENO MARTINEZ",
+              "votos": 7
+            },
+            {
+              "nombre": "ANDRES MARTINEZ RODRIGUEZ",
+              "votos": 208
+            },
+            {
+              "nombre": "MARIA MARTINEZ GARCIA",
+              "votos": 190
+            }
+          ],
+          "votos_partido": 407
+        }
+      ]
+    },
+    {
+      "codpuesto": "15516010",
+      "nombre_puesto": "PUESTO 10 - PAIPA",
+      "mesas": 10,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "JUAN RODRIGUEZ GARCIA",
+              "votos": 76
+            },
+            {
+              "nombre": "PAOLA SANCHEZ CASTRO",
+              "votos": 585
+            },
+            {
+              "nombre": "PAOLA GARCIA MORENO",
+              "votos": 13
+            },
+            {
+              "nombre": "LAURA RAMIREZ TORRES",
+              "votos": 189
+            },
+            {
+              "nombre": "LAURA SANCHEZ CASTRO",
+              "votos": 82
+            }
+          ],
+          "votos_partido": 945
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "LAURA CASTRO RAMIREZ",
+              "votos": 677
+            },
+            {
+              "nombre": "ANDRES GARCIA GARCIA",
+              "votos": 534
+            },
+            {
+              "nombre": "PAOLA RODRIGUEZ CASTRO",
+              "votos": 183
+            },
+            {
+              "nombre": "JORGE PEREZ RODRIGUEZ",
+              "votos": 93
+            }
+          ],
+          "votos_partido": 1487
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "JORGE LOPEZ CASTRO",
+              "votos": 4
+            },
+            {
+              "nombre": "SOFIA GARCIA CASTRO",
+              "votos": 59
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 1262
+            }
+          ],
+          "votos_partido": 1325
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA PEREZ MARTINEZ",
+              "votos": 163
+            },
+            {
+              "nombre": "CAMILA GOMEZ CASTRO",
+              "votos": 568
+            },
+            {
+              "nombre": "LUIS GARCIA GOMEZ",
+              "votos": 937
+            },
+            {
+              "nombre": "MARIA TORRES GARCIA",
+              "votos": 0
+            }
+          ],
+          "votos_partido": 1668
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "SOFIA RODRIGUEZ GOMEZ",
+              "votos": 621
+            },
+            {
+              "nombre": "CAMILA RAMIREZ RAMIREZ",
+              "votos": 55
+            },
+            {
+              "nombre": "DAVID PEREZ MARTINEZ",
+              "votos": 950
+            }
+          ],
+          "votos_partido": 1626
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "ANDRES RAMIREZ RODRIGUEZ",
+              "votos": 150
+            },
+            {
+              "nombre": "CARLOS SANCHEZ RAMIREZ",
+              "votos": 419
+            }
+          ],
+          "votos_partido": 569
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "MARIA MARTINEZ MARTINEZ",
+              "votos": 775
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 974
+            }
+          ],
+          "votos_partido": 1749
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA DIAZ DIAZ",
+              "votos": 1352
+            },
+            {
+              "nombre": "PAOLA TORRES SANCHEZ",
+              "votos": 265
+            }
+          ],
+          "votos_partido": 1617
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "DAVID GARCIA DIAZ",
+              "votos": 92
+            },
+            {
+              "nombre": "VALENTINA GARCIA DIAZ",
+              "votos": 41
+            },
+            {
+              "nombre": "MARIA DIAZ CASTRO",
+              "votos": 40
+            },
+            {
+              "nombre": "ANA LOPEZ MORENO",
+              "votos": 62
+            },
+            {
+              "nombre": "JORGE GARCIA MORENO",
+              "votos": 21
+            }
+          ],
+          "votos_partido": 256
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "DIANA LOPEZ MARTINEZ",
+              "votos": 49
+            },
+            {
+              "nombre": "CARLOS MARTINEZ GOMEZ",
+              "votos": 284
+            }
+          ],
+          "votos_partido": 333
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "DAVID CASTRO DIAZ",
+              "votos": 112
+            },
+            {
+              "nombre": "SOFIA GARCIA GOMEZ",
+              "votos": 66
+            },
+            {
+              "nombre": "PAOLA GARCIA CASTRO",
+              "votos": 121
+            },
+            {
+              "nombre": "CAMILA CASTRO RAMIREZ",
+              "votos": 148
+            },
+            {
+              "nombre": "CARLOS MORENO LOPEZ",
+              "votos": 1
+            }
+          ],
+          "votos_partido": 448
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "JORGE SANCHEZ RODRIGUEZ",
+              "votos": 22
+            },
+            {
+              "nombre": "PAOLA MORENO MARTINEZ",
+              "votos": 130
+            },
+            {
+              "nombre": "ANDRES MARTINEZ RODRIGUEZ",
+              "votos": 103
+            },
+            {
+              "nombre": "MARIA MARTINEZ GARCIA",
+              "votos": 59
+            }
+          ],
+          "votos_partido": 314
+        }
+      ]
+    },
+    {
+      "codpuesto": "15516011",
+      "nombre_puesto": "PUESTO 11 - PAIPA",
+      "mesas": 7,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "JUAN RODRIGUEZ GARCIA",
+              "votos": 248
+            },
+            {
+              "nombre": "PAOLA SANCHEZ CASTRO",
+              "votos": 239
+            },
+            {
+              "nombre": "PAOLA GARCIA MORENO",
+              "votos": 60
+            },
+            {
+              "nombre": "LAURA RAMIREZ TORRES",
+              "votos": 561
+            },
+            {
+              "nombre": "LAURA SANCHEZ CASTRO",
+              "votos": 28
+            }
+          ],
+          "votos_partido": 1136
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "LAURA CASTRO RAMIREZ",
+              "votos": 17
+            },
+            {
+              "nombre": "ANDRES GARCIA GARCIA",
+              "votos": 286
+            },
+            {
+              "nombre": "PAOLA RODRIGUEZ CASTRO",
+              "votos": 58
+            },
+            {
+              "nombre": "JORGE PEREZ RODRIGUEZ",
+              "votos": 436
+            }
+          ],
+          "votos_partido": 797
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "JORGE LOPEZ CASTRO",
+              "votos": 890
+            },
+            {
+              "nombre": "SOFIA GARCIA CASTRO",
+              "votos": 74
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 28
+            }
+          ],
+          "votos_partido": 992
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA PEREZ MARTINEZ",
+              "votos": 16
+            },
+            {
+              "nombre": "CAMILA GOMEZ CASTRO",
+              "votos": 12
+            },
+            {
+              "nombre": "LUIS GARCIA GOMEZ",
+              "votos": 319
+            },
+            {
+              "nombre": "MARIA TORRES GARCIA",
+              "votos": 3
+            }
+          ],
+          "votos_partido": 350
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "SOFIA RODRIGUEZ GOMEZ",
+              "votos": 500
+            },
+            {
+              "nombre": "CAMILA RAMIREZ RAMIREZ",
+              "votos": 273
+            },
+            {
+              "nombre": "DAVID PEREZ MARTINEZ",
+              "votos": 403
+            }
+          ],
+          "votos_partido": 1176
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "ANDRES RAMIREZ RODRIGUEZ",
+              "votos": 171
+            },
+            {
+              "nombre": "CARLOS SANCHEZ RAMIREZ",
+              "votos": 728
+            }
+          ],
+          "votos_partido": 899
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "MARIA MARTINEZ MARTINEZ",
+              "votos": 262
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 616
+            }
+          ],
+          "votos_partido": 878
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA DIAZ DIAZ",
+              "votos": 348
+            },
+            {
+              "nombre": "PAOLA TORRES SANCHEZ",
+              "votos": 183
+            }
+          ],
+          "votos_partido": 531
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "DAVID GARCIA DIAZ",
+              "votos": 30
+            },
+            {
+              "nombre": "VALENTINA GARCIA DIAZ",
+              "votos": 34
+            },
+            {
+              "nombre": "MARIA DIAZ CASTRO",
+              "votos": 63
+            },
+            {
+              "nombre": "ANA LOPEZ MORENO",
+              "votos": 100
+            },
+            {
+              "nombre": "JORGE GARCIA MORENO",
+              "votos": 55
+            }
+          ],
+          "votos_partido": 282
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "DIANA LOPEZ MARTINEZ",
+              "votos": 417
+            },
+            {
+              "nombre": "CARLOS MARTINEZ GOMEZ",
+              "votos": 156
+            }
+          ],
+          "votos_partido": 573
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "DAVID CASTRO DIAZ",
+              "votos": 0
+            },
+            {
+              "nombre": "SOFIA GARCIA GOMEZ",
+              "votos": 61
+            },
+            {
+              "nombre": "PAOLA GARCIA CASTRO",
+              "votos": 37
+            },
+            {
+              "nombre": "CAMILA CASTRO RAMIREZ",
+              "votos": 187
+            },
+            {
+              "nombre": "CARLOS MORENO LOPEZ",
+              "votos": 429
+            }
+          ],
+          "votos_partido": 714
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "JORGE SANCHEZ RODRIGUEZ",
+              "votos": 64
+            },
+            {
+              "nombre": "PAOLA MORENO MARTINEZ",
+              "votos": 44
+            },
+            {
+              "nombre": "ANDRES MARTINEZ RODRIGUEZ",
+              "votos": 36
+            },
+            {
+              "nombre": "MARIA MARTINEZ GARCIA",
+              "votos": 52
+            }
+          ],
+          "votos_partido": 196
+        }
+      ]
+    },
+    {
+      "codpuesto": "15516012",
+      "nombre_puesto": "PUESTO 12 - PAIPA",
+      "mesas": 3,
+      "CA": [
+        {
+          "codpar": 5,
+          "candidatos": [
+            {
+              "nombre": "JUAN RODRIGUEZ GARCIA",
+              "votos": 140
+            },
+            {
+              "nombre": "PAOLA SANCHEZ CASTRO",
+              "votos": 55
+            },
+            {
+              "nombre": "PAOLA GARCIA MORENO",
+              "votos": 6
+            },
+            {
+              "nombre": "LAURA RAMIREZ TORRES",
+              "votos": 62
+            },
+            {
+              "nombre": "LAURA SANCHEZ CASTRO",
+              "votos": 42
+            }
+          ],
+          "votos_partido": 305
+        },
+        {
+          "codpar": 87,
+          "candidatos": [
+            {
+              "nombre": "LAURA CASTRO RAMIREZ",
+              "votos": 5
+            },
+            {
+              "nombre": "ANDRES GARCIA GARCIA",
+              "votos": 17
+            },
+            {
+              "nombre": "PAOLA RODRIGUEZ CASTRO",
+              "votos": 18
+            },
+            {
+              "nombre": "JORGE PEREZ RODRIGUEZ",
+              "votos": 25
+            }
+          ],
+          "votos_partido": 65
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "JORGE LOPEZ CASTRO",
+              "votos": 59
+            },
+            {
+              "nombre": "SOFIA GARCIA CASTRO",
+              "votos": 6
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 14
+            }
+          ],
+          "votos_partido": 79
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "PAOLA PEREZ MARTINEZ",
+              "votos": 166
+            },
+            {
+              "nombre": "CAMILA GOMEZ CASTRO",
+              "votos": 46
+            },
+            {
+              "nombre": "LUIS GARCIA GOMEZ",
+              "votos": 62
+            },
+            {
+              "nombre": "MARIA TORRES GARCIA",
+              "votos": 22
+            }
+          ],
+          "votos_partido": 296
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "SOFIA RODRIGUEZ GOMEZ",
+              "votos": 25
+            },
+            {
+              "nombre": "CAMILA RAMIREZ RAMIREZ",
+              "votos": 100
+            },
+            {
+              "nombre": "DAVID PEREZ MARTINEZ",
+              "votos": 77
+            }
+          ],
+          "votos_partido": 202
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "ANDRES RAMIREZ RODRIGUEZ",
+              "votos": 36
+            },
+            {
+              "nombre": "CARLOS SANCHEZ RAMIREZ",
+              "votos": 24
+            }
+          ],
+          "votos_partido": 60
+        }
+      ],
+      "SE": [
+        {
+          "codpar": 57,
+          "candidatos": [
+            {
+              "nombre": "MARIA MARTINEZ MARTINEZ",
+              "votos": 18
+            },
+            {
+              "nombre": "CAMILA RODRIGUEZ LOPEZ",
+              "votos": 51
+            }
+          ],
+          "votos_partido": 69
+        },
+        {
+          "codpar": 92,
+          "candidatos": [
+            {
+              "nombre": "VALENTINA DIAZ DIAZ",
+              "votos": 35
+            },
+            {
+              "nombre": "PAOLA TORRES SANCHEZ",
+              "votos": 231
+            }
+          ],
+          "votos_partido": 266
+        },
+        {
+          "codpar": 10,
+          "candidatos": [
+            {
+              "nombre": "DAVID GARCIA DIAZ",
+              "votos": 228
+            },
+            {
+              "nombre": "VALENTINA GARCIA DIAZ",
+              "votos": 89
+            },
+            {
+              "nombre": "MARIA DIAZ CASTRO",
+              "votos": 5
+            },
+            {
+              "nombre": "ANA LOPEZ MORENO",
+              "votos": 1
+            },
+            {
+              "nombre": "JORGE GARCIA MORENO",
+              "votos": 108
+            }
+          ],
+          "votos_partido": 431
+        },
+        {
+          "codpar": 2,
+          "candidatos": [
+            {
+              "nombre": "DIANA LOPEZ MARTINEZ",
+              "votos": 44
+            },
+            {
+              "nombre": "CARLOS MARTINEZ GOMEZ",
+              "votos": 199
+            }
+          ],
+          "votos_partido": 243
+        },
+        {
+          "codpar": 1,
+          "candidatos": [
+            {
+              "nombre": "DAVID CASTRO DIAZ",
+              "votos": 41
+            },
+            {
+              "nombre": "SOFIA GARCIA GOMEZ",
+              "votos": 94
+            },
+            {
+              "nombre": "PAOLA GARCIA CASTRO",
+              "votos": 236
+            },
+            {
+              "nombre": "CAMILA CASTRO RAMIREZ",
+              "votos": 25
+            },
+            {
+              "nombre": "CARLOS MORENO LOPEZ",
+              "votos": 38
+            }
+          ],
+          "votos_partido": 434
+        },
+        {
+          "codpar": 4,
+          "candidatos": [
+            {
+              "nombre": "JORGE SANCHEZ RODRIGUEZ",
+              "votos": 36
+            },
+            {
+              "nombre": "PAOLA MORENO MARTINEZ",
+              "votos": 5
+            },
+            {
+              "nombre": "ANDRES MARTINEZ RODRIGUEZ",
+              "votos": 168
+            },
+            {
+              "nombre": "MARIA MARTINEZ GARCIA",
+              "votos": 305
+            }
+          ],
+          "votos_partido": 514
+        }
+      ]
+    }
+  ]
+}
